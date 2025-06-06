@@ -1,10 +1,2 @@
 EK
-<<<<<<< HEAD
 260
-=======
-<<<<<<< Updated upstream
-258
-=======
-262
->>>>>>> Stashed changes
->>>>>>> origin/Darashia-DL
