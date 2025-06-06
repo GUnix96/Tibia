@@ -4,10 +4,18 @@ Level: 110 Voc: S=66.70.180.203
 Level: 111 Voc: S=66.70.180.203
 Level: 123 Voc: MS=66.70.180.203
 Level: 126 Voc: MS=66.70.180.203
+<<<<<<< HEAD
 Level: 133 Voc: MS=66.70.180.203
 Level: 150 Voc: MS=66.70.180.203
 <<<<<<< Updated upstream
 =======
 Level: 151 Voc: MS=66.70.180.203
 >>>>>>> Stashed changes
+=======
+<<<<<<< Updated upstream
+=======
+Level: 133 Voc: MS=66.70.180.203
+Level: 149 Voc: MS=66.70.180.203
+Level: 150 Voc: MS=66.70.180.203
+>>>>>>> origin/Darashia-DL
 >>>>>>> Stashed changes
