@@ -11,6 +11,7 @@ Elfbot 4.5.9
 Scripts:
 Darashia DL
 Deeper Banuta
+Edron Cyclopolis
 
 Icons
 Sorcerer
