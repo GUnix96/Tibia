@@ -263,7 +263,7 @@ Text: ------------Support------------
 TextColor: 33023
 HoverColor: 33023
 
-Name: Rope
+Name: Rope/Shovel
 Enabled: yes
 DrawAsBackground: no
 Size: Small
@@ -322,7 +322,7 @@ IconIds: 9596 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 180
+PositionX: 100
 AlignY: Absolute
 PositionY: 250
 Text: Tool
@@ -366,8 +366,8 @@ Name: Drop empty Vials
 Enabled: yes
 DrawAsBackground: no
 Size: Small
-LeftCommand: auto 10000 listas 'Drop Vial' | dropitems 284 100
-RightCommand: auto 1000 listas 'Drop Vial' | dropitems 284 100
+LeftCommand: dropitems 284 100
+RightCommand: auto 10000 listas 'Drop Vial' | dropitems 284 100
 
 State: Inactive
 IconType: Normal
@@ -1497,7 +1497,7 @@ IconIds: 3176 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 1400
+PositionX: 1380
 AlignY: Absolute
 PositionY: 1220
 Text: Poison Wall
@@ -1510,7 +1510,7 @@ IconIds: 3176 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 1400
+PositionX: 1380
 AlignY: Absolute
 PositionY: 1220
 Text: Poison Wall
@@ -1530,7 +1530,7 @@ IconIds: 3179 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 1485
+PositionX: 1460
 AlignY: Absolute
 PositionY: 1220
 Text: Stalagmite
@@ -1563,7 +1563,7 @@ IconIds: 3175 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 1570
+PositionX: 1540
 AlignY: Absolute
 PositionY: 1220
 Text: Stone Shower
@@ -1621,7 +1621,7 @@ Enabled: yes
 DrawAsBackground: no
 Size: Small
 LeftCommand: magwall target | crosshair 3180
-RightCommand: auto 200 listas 'M-Wall' | magwall target
+RightCommand: auto 200 listas 'M-Wall' | keepmagwall
 
 State: Inactive
 IconType: Normal
@@ -1681,3 +1681,36 @@ PositionY: 1220
 Text: SD
 TextColor: 33023
 HoverColor: 16776960
+
+Name: -------------PvP------------
+Enabled: yes
+DrawAsBackground: no
+Size: Small
+LeftCommand: 
+RightCommand: 
+
+State: Inactive
+IconType: Normal
+IconIds: 0 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 20
+AlignY: Absolute
+PositionY: 750
+Text: --------------PvP------------
+TextColor: 33023
+HoverColor: 33023
+
+State: Active
+IconType: Normal
+IconIds: 0 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 20
+AlignY: Absolute
+PositionY: 750
+Text: --------------PvP------------
+TextColor: 33023
+HoverColor: 33023
