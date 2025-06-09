@@ -3,7 +3,6 @@
 3031 3 gold bp 3
 3031 4 gold bp 4
 3031 5 gold bp 5
-//3061 0 life crystal
 3062 0 mind stone
 3428 g tower shield
 3420 3 demon shield
@@ -14,12 +13,9 @@
 3053 5 time ring
 5810 2 pirate doll
 3091 0 sword ring
-//3071 0 wand of inferno
-//3098 0 ring of healing
 3081 5 stone skin amulet
 3392 3 royal helmet
 3048 0 might ring
-//3052 0 life ring
 3371 g knight legs
 3416 g dragon shield
 3429 0 black shield
@@ -29,13 +25,6 @@
 5878 2 minotaur leather
 3324 3 skull staff
 5920 2 green dragon scale
-//3033 0 small amethyst
-//3032 0 small emerald
-//3027 0 black pearl
-//3028 0 small diamond
-//3029 0 small sapphire
-//3042 0 sacarab coin
-//3034 0 talon
 5880 2 giant spider silk
 5909 2 white cloth
 5882 2 red dragon scale
@@ -45,15 +34,16 @@
 3031 01 Gold Coin
 3035 01 Platinum Coin
 8052 03 Swamp Lair Armor
-7643 g Ultimat Health P
+7643 g Ultimat Health Potion
 3436 03 Medusa Shield
-0238 00 Great Mana Potio
+0238 04 Great Mana Potion
 7456 03 Noble Axe
 3370 g Knight Armor
 3079 03 Boots of Haste
 3081 05 Stone Skin Amule
-3428 g Tower Shield
 0812 03 Terra Legs
 3381 g Crown Armor
 5879 02 Spider Silk
 7386 03 mercenary sword
+3373  g strange helmet
+8051 03 Swamplair Armor
