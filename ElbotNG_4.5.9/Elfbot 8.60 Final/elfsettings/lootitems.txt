@@ -3,8 +3,7 @@
 3031 3 gold bp 3
 3031 4 gold bp 4
 3031 5 gold bp 5
-3370 g karmor
-3061 0 life crystal
+//3061 0 life crystal
 3062 0 mind stone
 3428 g tower shield
 3420 3 demon shield
@@ -13,7 +12,7 @@
 6126 2 peg leg
 5801 0 key ring
 3053 5 time ring
-5810 0 pirate doll
+5810 2 pirate doll
 3091 0 sword ring
 //3071 0 wand of inferno
 //3098 0 ring of healing
@@ -48,11 +47,9 @@
 8052 03 Swamp Lair Armor
 7643 g Ultimat Health P
 3436 03 Medusa Shield
-3369 g Warrior Helmet
 0238 00 Great Mana Potio
 7456 03 Noble Axe
 3370 g Knight Armor
-3369 g Warrior Helmet
 3079 03 Boots of Haste
 3081 05 Stone Skin Amule
 3428 g Tower Shield
