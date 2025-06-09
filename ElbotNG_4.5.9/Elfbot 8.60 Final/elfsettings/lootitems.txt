@@ -29,7 +29,7 @@
 5922 2 holy orchid
 5878 2 minotaur leather
 3324 3 skull staff
-5920 0 green dragon scale
+5920 2 green dragon scale
 //3033 0 small amethyst
 //3032 0 small emerald
 //3027 0 black pearl
@@ -37,7 +37,26 @@
 //3029 0 small sapphire
 //3042 0 sacarab coin
 //3034 0 talon
-5880 0 giant spider silk
-5909 0 white cloth
-5882 0 red dragon scale
-3434 0 vampire shield
+5880 2 giant spider silk
+5909 2 white cloth
+5882 2 red dragon scale
+3434 3 vampire shield
+3392 03 Royal Helmet
+3035 01 Platinum Coin
+3031 01 Gold Coin
+3035 01 Platinum Coin
+8052 03 Swamp Lair Armor
+7643 g Ultimat Health P
+3436 03 Medusa Shield
+3369 g Warrior Helmet
+0238 00 Great Mana Potio
+7456 03 Noble Axe
+3370 g Knight Armor
+3369 g Warrior Helmet
+3079 03 Boots of Haste
+3081 05 Stone Skin Amule
+3428 g Tower Shield
+0812 03 Terra Legs
+3381 g Crown Armor
+5879 02 Spider Silk
+7386 03 mercenary sword
