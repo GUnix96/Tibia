@@ -329,11 +329,44 @@ Text: Tool
 TextColor: 33023
 HoverColor: 16776960
 
+Name: TP Up/Down
+Enabled: yes
+DrawAsBackground: no
+Size: Small
+LeftCommand: say 'Exani Hur "UP"'
+RightCommand: say 'Exani Hur "Down"'
+
+State: Inactive
+IconType: Normal
+IconIds: 0 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 180
+AlignY: Absolute
+PositionY: 250
+Text: TP Up/Down
+TextColor: 33023
+HoverColor: 16776960
+
+State: Active
+IconType: Normal
+IconIds: 0 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 180
+AlignY: Absolute
+PositionY: 250
+Text: TP Up/Down
+TextColor: 33023
+HoverColor: 16776960
+
 Name: Blessings
 Enabled: yes
 DrawAsBackground: no
 Size: Small
-LeftCommand: auto 1000 listas 'Blessings' | ifnot $connected { reconnect | wait 6000 | {say '!bless'} 
+LeftCommand: auto 1000 listas 'Blessings' | ifnot $connected { reconnect | wait 6000 | {say '!bless'}
 RightCommand: reconnect
 
 State: Inactive
@@ -362,7 +395,7 @@ Text: Blessings
 TextColor: 33023
 HoverColor: 16776960
 
-Name: Drop empty Vials
+Name: Drop
 Enabled: yes
 DrawAsBackground: no
 Size: Small
@@ -378,7 +411,7 @@ AlignX: Absolute
 PositionX: 100
 AlignY: Absolute
 PositionY: 300
-Text: Drop Vial
+Text: Drop
 TextColor: 33023
 HoverColor: 16776960
 
@@ -391,7 +424,7 @@ AlignX: Absolute
 PositionX: 100
 AlignY: Absolute
 PositionY: 300
-Text: Drop Vial
+Text: Drop
 TextColor: 33023
 HoverColor: 16776960
 
@@ -465,7 +498,7 @@ Name: Anti-Idle
 Enabled: yes
 DrawAsBackground: no
 Size: Small
-LeftCommand: auto 10000 listas 'Anti-Idle' | turnn | turns 
+LeftCommand: auto 10000 listas 'Anti-Idle' | turnn | turns
 RightCommand: 
 
 State: Inactive
@@ -498,8 +531,8 @@ Name: Pick Up
 Enabled: yes
 DrawAsBackground: no
 Size: Small
-LeftCommand: auto 1 listas 'Pick Up' | collectitems 'empty' 8060 3553 9148 3507 11455 6529 406 3043 11651 3368 3424 10345 3555 283 3388 3414 3031 3035 3725 3043 3492 3447 7368 5801 9019 8090 6529 3051 8097 10384 285 284 3553 3560 3068 10345
-RightCommand:  auto 1 listas 'Loot & Pick Up' | moveitems  3031 01 | moveitems  3035 01 | moveitems 3043 01 | moveitems 3553 03 | moveitems 3560 03 | moveitems 3068 03 | moveitems 654 03 | moveitems 10345 03 | moveitems 3392 03 | moveitems 3079 03 | moveitems 3392 03 | moveitems 3386 03 | collectitems 'empty' 8060 3553 9148 3507 11455 6529 406 3043 11651 3368 3424 10345 3555 283 3388 3414 3031 3035 3725 3043 3492 3447 7368 5801 9019 8090 6529 3051 8097 10384 285 284 3553 3560 3068 10345
+LeftCommand: auto 1 listas 'Pick Up' | collectitems 'empty' 8060 3553 9148 3507 11455 6529 406 3043 11651 284 3368 3424 10345 3555 283 3388 3414 3031 3035 3725 3043 3492 3447 7368 5801 9019 8090 6529 3051 8097 10384 285 3553 284 3560 3068 10345
+RightCommand: auto 1 listas 'Loot & Pick Up' | moveitems  3031 01 | moveitems  3035 01 | moveitems 3043 01 | moveitems 3553 03 | moveitems 3560 03 | moveitems 3068 03 | moveitems 654 03 | moveitems 10345 03 | moveitems 3392 03 | moveitems 3079 03 | moveitems 3392 03 | moveitems 3386 03 | moveitems 3363 03 | moveitems 9017 03 | collectitems 'empty' 8060 3553 9148 3507 11455 6529 406 3043 11651 3368 3424 10345 3555 283 3388 3414 3031 3035 3725 3043 3492 3447 7368 5801 9019 8090 6529 3051 8097 10384 285 284 3553 3560 3068 10345 3031 3035 3043 3553 3560 3068 654 10345 3392 3079 3392 3386 3363 9017 
 
 State: Inactive
 IconType: Normal
@@ -524,6 +557,39 @@ PositionX: 180
 AlignY: Absolute
 PositionY: 350
 Text: Pick Up
+TextColor: 33023
+HoverColor: 16776960
+
+Name: Open BP's
+Enabled: yes
+DrawAsBackground: no
+Size: Small
+LeftCommand: closeallwindows | wait 2000 | openbpitem | wait 2000 | openitemnew 2866 1 00 | wait 2000 | openitemnew 2872 1 00 | wait 2000 | openitemnew 2854 1 00 | wait 2000 | openitemnew 2868 1 00 | wait 2000
+RightCommand: 
+
+State: Inactive
+IconType: Normal
+IconIds: 3253 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 20
+AlignY: Absolute
+PositionY: 400
+Text: Open BP's
+TextColor: 33023
+HoverColor: 16776960
+
+State: Active
+IconType: Normal
+IconIds: 3253 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 20
+AlignY: Absolute
+PositionY: 400
+Text: Open BP's
 TextColor: 33023
 HoverColor: 16776960
 
@@ -630,8 +696,8 @@ Name: UE
 Enabled: yes
 DrawAsBackground: no
 Size: Small
-LeftCommand: auto 500 listas 'Auto UE' | if [$monstersaround.3 >= 4] if [$mppc > 10] ifnoplayeronscreen say 'Exevo Gran Mas Vis'
-RightCommand: auto 500 listas 'Auto UE' | if [$monstersaround.3 >= 4] if [$mppc > 10] ifnoplayeronscreen say 'Exevo Gran Mas Flam'
+LeftCommand: auto 500 listas 'Auto UE' | if [$monstersaround.3 >= 3] if [$mppc > 10] ifnoplayeronscreen say 'Exevo Gran Mas Vis'
+RightCommand: auto 500 listas 'Auto UE' | if [$monstersaround.3 >= 3] if [$mppc > 10] ifnoplayeronscreen say 'Exevo Gran Mas Flam'
 
 State: Inactive
 IconType: Normal
@@ -763,7 +829,7 @@ Enabled: yes
 DrawAsBackground: no
 Size: Small
 LeftCommand: npcsay 'hi' | wait 200 | npcsay ' Darashia' | wait 300 | npcsay 'yes'
-RightCommand: npcsay 'hi' | wait 200 | npcsay 'darashia' | wait 300 | npcsay 'yes' | wait 200 |  npcsay 'yes
+RightCommand: npcsay 'hi' | wait 200 | npcsay 'darashia' | wait 300 | npcsay 'yes' | wait 200 |  npcsay 'yes'
 
 State: Inactive
 IconType: Normal
@@ -1258,7 +1324,7 @@ Enabled: yes
 DrawAsBackground: no
 Size: Small
 LeftCommand: safe useoncreature 3189 target | crosshair 3189
-RightCommand: auto 200 safe useoncreature 3189 target 
+RightCommand: auto 200 safe useoncreature 3189 target
 
 State: Inactive
 IconType: Normal
@@ -1390,7 +1456,7 @@ Enabled: yes
 DrawAsBackground: no
 Size: Small
 LeftCommand: safe useoncreature 3149 target | crosshair 3149
-RightCommand: auto 200 safe useoncreature 3149 target 
+RightCommand: auto 200 safe useoncreature 3149 target
 
 State: Inactive
 IconType: Normal
@@ -1455,7 +1521,7 @@ Name: Poison Field
 Enabled: yes
 DrawAsBackground: no
 Size: Small
-LeftCommand: safe useoncreature 3172 target
+LeftCommand: safe useoncreature 3172 target | crosshair 3172
 RightCommand: auto 200 safe useoncreature 3172 target
 
 State: Inactive
@@ -1488,7 +1554,7 @@ Name: Poison Wall
 Enabled: yes
 DrawAsBackground: no
 Size: Small
-LeftCommand: safe useoncreature 3176 target
+LeftCommand: safe useoncreature 3176 target | crosshair 3176
 RightCommand: auto 200 safe useoncreature 3176 target
 
 State: Inactive
@@ -1497,7 +1563,7 @@ IconIds: 3176 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 1380
+PositionX: 1385
 AlignY: Absolute
 PositionY: 1220
 Text: Poison Wall
@@ -1510,7 +1576,7 @@ IconIds: 3176 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 1380
+PositionX: 1385
 AlignY: Absolute
 PositionY: 1220
 Text: Poison Wall
@@ -1521,7 +1587,7 @@ Name: Stalagmite
 Enabled: yes
 DrawAsBackground: no
 Size: Small
-LeftCommand: safe stalagmite target
+LeftCommand: safe stalagmite target | crosshair 3179
 RightCommand: auto 200 safe stalagmite target
 
 State: Inactive
@@ -1530,7 +1596,7 @@ IconIds: 3179 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 1460
+PositionX: 1465
 AlignY: Absolute
 PositionY: 1220
 Text: Stalagmite
@@ -1543,7 +1609,7 @@ IconIds: 3179 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 1485
+PositionX: 1465
 AlignY: Absolute
 PositionY: 1220
 Text: Stalagmite
@@ -1554,7 +1620,7 @@ Name: Stone Shower
 Enabled: yes
 DrawAsBackground: no
 Size: Small
-LeftCommand: aimstoneshower |  safe useoncreature 3175 target | crosshair 3175 
+LeftCommand: aimstoneshower |  safe useoncreature 3175 target | crosshair 3175
 RightCommand: auto 200 aimstoneshower | safe useoncreature 3175 target
 
 State: Inactive
@@ -1563,7 +1629,7 @@ IconIds: 3175 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 1540
+PositionX: 1550
 AlignY: Absolute
 PositionY: 1220
 Text: Stone Shower
@@ -1576,7 +1642,7 @@ IconIds: 3175 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 1570
+PositionX: 1550
 AlignY: Absolute
 PositionY: 1220
 Text: Stone Shower
@@ -1621,7 +1687,7 @@ Enabled: yes
 DrawAsBackground: no
 Size: Small
 LeftCommand: magwall target | crosshair 3180
-RightCommand: auto 200 listas 'M-Wall' | keepmagwall
+RightCommand: auto 200 listas 'M-Wall' | magwall target
 
 State: Inactive
 IconType: Normal
@@ -1695,7 +1761,7 @@ IconIds: 0 0 0 0
 BkgType: Normal
 BkgIds: 0 0 0 0
 AlignX: Absolute
-PositionX: 20
+PositionX: 15
 AlignY: Absolute
 PositionY: 750
 Text: --------------PvP------------
@@ -1714,3 +1780,102 @@ PositionY: 750
 Text: --------------PvP------------
 TextColor: 33023
 HoverColor: 33023
+
+Name: Color Enemys
+Enabled: yes
+DrawAsBackground: no
+Size: Small
+LeftCommand: auto 200 foreach 'screenplayers' $x { if [$x.isenemy && $x.haslookinfo] {if [$x.isdruid] {setoutfit $x.name 'Male Druid'} | if [$x.issorcerer] {setoutfit $x.name 'Male Mage'} | if [$x.isknight] {setoutfit $x.name 'Male Warrior'} | if [$x.ispaladin] {setoutfit $x.name 'Male Assassin'}} 
+RightCommand: 
+
+State: Inactive
+IconType: Normal
+IconIds: 7991 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 20
+AlignY: Absolute
+PositionY: 800
+Text: Color Enemys
+TextColor: 33023
+HoverColor: 16776960
+
+State: Active
+IconType: Normal
+IconIds: 7991 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 20
+AlignY: Absolute
+PositionY: 800
+Text: Color Enemys
+TextColor: 33023
+HoverColor: 16776960
+
+Name: Attack
+Enabled: yes
+DrawAsBackground: no
+Size: Small
+LeftCommand: auto 200 if $attacked set $holdd $attacked | if [$attacked != $holdd && $holdd.hppc != 0] attack $holdd.id | ifnot [$holdd.hppc] clear $holdd | setpos [$screenleft-202] [$screentop+50] | setcolor 206 206 206 | if $holdd displaytext 'Hold Target: [$holdd.name]' | ifnot $holdd displaytext 'Hold Target:  None
+RightCommand: clear $holdd | clear target
+
+State: Inactive
+IconType: Normal
+IconIds: 7456 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 110
+AlignY: Absolute
+PositionY: 800
+Text: Attack Target
+TextColor: 33023
+HoverColor: 16776960
+
+State: Active
+IconType: Normal
+IconIds: 7456 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 110
+AlignY: Absolute
+PositionY: 800
+Text: Attack Target
+TextColor: 33023
+HoverColor: 16776960
+
+Name: Follow
+Enabled: yes
+DrawAsBackground: no
+Size: Small
+LeftCommand: auto 200 | listas 'Follow' | follow 'NAMEl'
+RightCommand: 
+
+State: Inactive
+IconType: Normal
+IconIds: 0 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 210
+AlignY: Absolute
+PositionY: 800
+Text: Follow
+TextColor: 33023
+HoverColor: 16776960
+
+State: Active
+IconType: Normal
+IconIds: 0 0 0 0
+BkgType: Normal
+BkgIds: 0 0 0 0
+AlignX: Absolute
+PositionX: 210
+AlignY: Absolute
+PositionY: 800
+Text: Follow
+TextColor: 33023
+HoverColor: 16776960
