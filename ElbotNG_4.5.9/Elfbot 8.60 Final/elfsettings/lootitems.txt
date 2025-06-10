@@ -15,10 +15,7 @@
 3091 0 sword ring
 3081 5 stone skin amulet
 3048 0 might ring
-3371 g knight legs
-3416 g dragon shield
 3429 0 black shield
-3369 g warrior helmet
 5921 2 heaven blossom
 5922 2 holy orchid
 5878 2 minotaur leather
@@ -28,7 +25,7 @@
 5909 2 white cloth
 5882 2 red dragon scale
 3434 3 vampire shield
-3392 3 Royal Helmet
+3392 03 Royal Helmet
 3035 01 Platinum Coin
 3031 01 Gold Coin
 3035 01 Platinum Coin
@@ -37,22 +34,18 @@
 3436 03 Medusa Shield
 0238 04 Great Mana Potion
 7456 03 Noble Axe
-3370 g Knight Armor
 3079 03 Boots of Haste
-3081 05 Stone Skin Amule
 0812 03 Terra Legs
 3381 g Crown Armor
 5879 02 Spider Silk
 7386 03 mercenary sword
-3373  g strange helmet
 8051 03 Swamplair Armor
 6529 0 pair of soft boots
 6530 0 worn soft boots
-9018 3 firewalker boots
-9019 3 firewalker boots
-9020 3 firewalker boots
+9018 0 firewalker boots
+9019 0 firewalker boots
+9020 0 firewalker boots
 
-Boots:
 813 3 terra boots
 818 3 magma boots
 819 3 glacier shoes
@@ -78,8 +71,10 @@ Boots:
 16112 3 prismatic boots
 19374 3 vampire silk slippers
 21169 3 metal spat
+9017 0 battle boots
+3553 0 enchanted slippers
 
-Decoration
+
 651 3 spellwand
 2989 3 wooden doll
 2991 3 doll
@@ -277,7 +272,6 @@ Decoration
 20350 3 cake tapestry
 21218  Lisa's doll
 
-Armors
 3366 3 magic plate armor
 3381 g crown armor
 3386 3 dragon scale mail
@@ -306,7 +300,6 @@ Armors
 13994 3 depth lorica
 14086 3 calopteryx cape
 
-Shields
 3414 3 mastermind shield
 3419 3 crown shield
 3420 3 demon shield
@@ -341,11 +334,10 @@ Shields
 20090 3 umbral master spellbook
 21175 3 mino shield
 
-BPs
 3253 0 Backpack of Holding
-5801 jewelled backpack
+5801 0 jewelled backpack
 
-Legs
+
 645 3 blue legs
 645 3 blue legs
 812 3 terra legs
@@ -366,7 +358,6 @@ Legs
 14087 3 grasshopper legs
 16111 3 prismatic legs
 
-Helmets
 3365 3 golden helmet
 827 3 magma monocle
 830 3 terra hood
@@ -379,3 +370,8 @@ Helmets
 11689 3 elite draken helmet
 3387 3 demon helmet
 
+8023 03 royal crossbow
+8030 0 the Windforce
+
+
+7386 03 mercenary sword 
