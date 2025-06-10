@@ -24,17 +24,17 @@
 5880 2 giant spider silk
 5909 2 white cloth
 5882 2 red dragon scale
+5948 2 red dragon leather
 3434 3 vampire shield
 3392 03 Royal Helmet
 3035 01 Platinum Coin
 3031 01 Gold Coin
 3035 01 Platinum Coin
 8052 03 Swamp Lair Armor
-7643 g Ultimat Health Potion
+7643 04 Ultimat Health Potion
 3436 03 Medusa Shield
-0238 04 Great Mana Potion
+238 04 Great Mana Potion
 7456 03 Noble Axe
-3079 03 Boots of Haste
 0812 03 Terra Legs
 3381 g Crown Armor
 5879 02 Spider Silk
@@ -51,6 +51,7 @@
 819 3 glacier shoes
 820 3 lightning boots
 3079 3 boots of haste
+3363 1 dragon scale boots
 3246 3 boots of waterwalking
 3549 3 pair of soft boots
 3550 3 patched boots
@@ -75,23 +76,23 @@
 3553 0 enchanted slippers
 
 
-651 3 spellwand
-2989 3 wooden doll
+651 1 spellwand
+2989 1 wooden doll
 2991 3 doll
 2993 3 teddy bear
-2994 3 model ship
-3001 3 bear doll
-3002 3 voodoo doll
-3046 3 magic light wand
+2994 1 model ship
+3001 1 bear doll
+3002 1 vodoo doll
+3046 1 magic light wand
 3068 3 crystal wand
 3076 3 crystal ball
-3078 3 mysterious fetish
+3078 1 mysterious fetish
 3209 3 voodoo doll
 3213 3 annihilation bear
-3215 3 phoenix egg
-3242 3 stuffed bunny
+3215 1 phoenix egg
+3242 1 stuffed bunny
 3655 3 moon flower
-3658 3 red rose
+3658 1 red rose
 3659 3 blue rose
 3660 3 yellow rose
 3661 3 grave flower
@@ -305,7 +306,6 @@
 3420 3 demon shield
 3422 3 great shield
 3423 3 blessed shield
-3428 g tower shield
 8072 3 spellbook of enlightenment
 8073 3 spellbook of warding
 8074 3 spellbook of mind control
@@ -337,8 +337,6 @@
 3253 0 Backpack of Holding
 5801 0 jewelled backpack
 
-
-645 3 blue legs
 645 3 blue legs
 812 3 terra legs
 821 3 magma legs
@@ -375,3 +373,5 @@
 
 
 7386 03 mercenary sword 
+7402 03 dragon slayer
+
