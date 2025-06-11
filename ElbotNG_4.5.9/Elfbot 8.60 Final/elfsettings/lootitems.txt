@@ -21,7 +21,6 @@
 7456 03 Noble Axe
 7386 03 mercenary sword
 
-
 //Boots
 6529 00 pair of soft boots
 6530 00 worn soft boots
@@ -33,19 +32,14 @@
 819 03 glacier shoes
 820 03 lightning boots
 3079 03 boots of haste
-3363 01 dragon scale boots
+3363 00 dragon scale boots
 3246 03 boots of waterwalking
-3549 03 pair of soft boots
+3549 00 pair of soft boots
 3550 03 patched boots
 3554 03 steel boots
 3555 03 golden boots
 4033 03 draken boots
 5461 03 pirate boots
-6529 00 pair of soft boots
-6530 00 worn soft boots
-9018 00 firewalker boots
-9019 00 firewalker boots
-9020 00 worn firewalker boots
 10200 03 crystal boots
 10201 03 dragon scale boots
 10323 03 guardian boots
@@ -55,7 +49,6 @@
 19374 03 vampire silk slippers
 9017 03 battle boots
 3553 00 enchanted slippers
-
 
 //Armor
 3366 03 magic plate armor
