@@ -4,7 +4,6 @@
 3031 4 gold bp 4
 3031 5 gold bp 5
 3062 0 mind stone
-3428 g tower shield
 3420 3 demon shield
 6098 2 eye patch
 6097 2 hook
@@ -26,12 +25,11 @@
 5882 2 red dragon scale
 5948 2 red dragon leather
 3434 3 vampire shield
-3392 03 Royal Helmet
+
 3035 01 Platinum Coin
 3031 01 Gold Coin
 3035 01 Platinum Coin
 8052 03 Swamp Lair Armor
-7643 g ultimat health potion
 3436 03 Medusa Shield
 238 04 great mana potion
 7456 03 Noble Axe
@@ -329,6 +327,8 @@
 21175 3 mino shield
 3253 0 Backpack of Holding
 5801 0 jewelled backpack
+
+//Legs
 645 3 blue legs
 812 3 terra legs
 821 3 magma legs
@@ -347,12 +347,15 @@
 13999 3 ornate legs
 14087 3 grasshopper legs
 16111 3 prismatic legs
+
+//Helmets
 3365 3 golden helmet
 827 3 magma monocle
 830 3 terra hood
 3385 3 crown helmet
 3391 3 crusader helmet
 3393 3 amazon helmet
+3392 03 royal helmet
 3400 3 dragon scale helmet
 10385 3 Zaoan helmet
 11674 3 cobra crown
