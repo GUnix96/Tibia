@@ -159,3 +159,15 @@
 8030 00 the Windforce
 7402 03 dragon slayer
 
+//Outfit
+5912 02 Blue Piece of Cloth
+5910 Green Piece of Cloth
+5911 Red Piece of Cloth
+5913 Brown Piece of Cloth
+5914 Yellow Piece of Cloth
+5909 White Piece of Cloth
+5886 Spool of Yarn
+5804 Nose Ring
+5930 Behemoth Claw
+5880 Iron Ore
+
