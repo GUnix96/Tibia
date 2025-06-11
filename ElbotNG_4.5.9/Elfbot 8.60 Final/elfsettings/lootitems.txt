@@ -14,7 +14,6 @@
 3091 0 sword ring
 3081 5 stone skin amulet
 3048 0 might ring
-3429 0 black shield
 5921 2 heaven blossom
 5922 2 holy orchid
 5878 2 minotaur leather
@@ -28,8 +27,8 @@
 3035 01 Platinum Coin
 3031 01 Gold Coin
 3035 01 Platinum Coin
-8052 03 Swamp Lair Armor
-3436 03 Medusa Shield
+8052 03 swamp lair armor
+3436 03 medusa shield
 238 04 great mana potion
 7456 03 Noble Axe
 0812 03 Terra Legs
