@@ -14,8 +14,7 @@
 3091 0 sword ring
 3081 5 stone skin amulet
 3048 0 might ring
-5921 2 heaven blossom
-5922 2 holy orchid
+
 5878 2 minotaur leather
 3324 3 skull staff
 5920 2 green dragon scale
@@ -161,13 +160,15 @@
 
 //Outfit
 5912 02 Blue Piece of Cloth
-5910 Green Piece of Cloth
-5911 Red Piece of Cloth
-5913 Brown Piece of Cloth
-5914 Yellow Piece of Cloth
-5909 White Piece of Cloth
-5886 Spool of Yarn
-5804 Nose Ring
-5930 Behemoth Claw
-5880 Iron Ore
+5910 02 Green Piece of Cloth
+5911 02 Red Piece of Cloth
+5913 02 Brown Piece of Cloth
+5914 02 Yellow Piece of Cloth
+5909 02 White Piece of Cloth
+5886 02 Spool of Yarn
+5804 02 Nose Ring
+5930 02 Behemoth Claw
+5880 02Iron Ore
+5921 02 heaven blossom
+5922 02 holy orchid
 
