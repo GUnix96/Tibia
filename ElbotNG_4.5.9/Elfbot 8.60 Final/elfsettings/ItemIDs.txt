@@ -1,0 +1,2461 @@
+Item ID Liste
+
+Boots
+813 3 terra boots
+818 3 magma boots
+819 3 glacier shoes
+820 3 lightning boots
+3079 3 boots haste
+3246 3 boots of waterwalking
+3549 3 pair of soft boots
+3550 3 patched boots
+3551 3 sandals
+3552 3 leather boots
+3553 3 bunnyslippers
+3554 3 steel boots
+3555 3 golden boots
+3556 3 crocodile boots
+4033 3 draken boots
+5461 3 pirate boots
+6529 3 pair of soft boots
+6530 3 worn soft boots
+7457 3 fur boots
+9017 3 coconut shoes
+9018 3 firewalker boots
+9019 3 firewalker boots
+9020 3 worn firewalker boots
+10200 3 crystal boots
+10201 3 dragon scale boots
+10323 3 guardian boots
+10386 3 Zaoan shoes
+13997 3 depth calcei
+16112 3 prismatic boots
+19374 3 vampire silk slippers
+21169 3 metal spats
+
+Decoration
+306 3 empty flower pot
+649 3 flower bouquet
+651 3 spellwand
+831 3 green bed kit
+832 3 yellow bed kit
+833 3 red bed kit
+834 3 blue bed kit
+872 3 trophy stand
+893 3 waterball
+895 3 jester staff
+896 3 Firlefanz
+900 3 yellow pillow
+902 3 marlin trophy
+903 3 badger fur
+2386 3 small purple pillow
+2387 3 small green pillow
+2388 3 small red pillow
+2389 3 small blue pillow
+2390 3 small orange pillow
+2391 3 small turquoise pillow
+2392 3 small white pillow
+2393 3 heart pillow
+2394 3 blue pillow
+2395 3 red pillow
+2396 3 green pillow
+2397 3 yellow pillow
+2398 3 round blue pillow
+2399 3 round red pillow
+2400 3 round purple pillow
+2401 3 round turquoise pillow
+2632 3 wall mirror
+2635 3 wall mirror
+2638 3 wall mirror
+2639 3 picture
+2640 3 picture
+2641 3 picture
+2644 3 purple tapestry
+2647 3 green tapestry
+2650 3 yellow tapestry
+2653 3 orange tapestry
+2656 3 red tapestry
+2659 3 blue tapestry
+2664 3 cuckoo clock
+2667 3 white tapestry
+2668 3 cuckoo clock
+2775 3 red cushioned chair kit
+2776 3 green cushioned chair kit
+2777 3 wooden chair kit
+2778 3 rocking chair kit
+2779 3 sofa chair kit
+2780 3 tusk chair kit
+2781 3 ivory chair kit
+2782 3 small table kit
+2783 3 round table kit
+2784 3 square table kit
+2785 3 big table kit
+2786 3 stone table kit
+2787 3 tusk table kit
+2788 3 bamboo table kit
+2789 3 drawer kit
+2790 3 dresser kit
+2791 3 locker kit
+2792 3 trough kit
+2793 3 barrel kit
+2794 3 trunk kit
+2795 3 bamboo drawer kit
+2796 3 birdcage kit
+2797 3 globe kit
+2798 3 table lamp kit
+2799 3 telescope kit
+2800 3 rocking horse kit
+2801 3 pendulum clock kit
+2802 3 knight statue kit
+2803 3 minotaur statue kit
+2804 3 goblin statue kit
+2805 3 large amphora kit
+2806 3 coal basin kit
+2807 3 piano kit
+2808 3 harp kit
+2809 3 trunk chair kit
+2810 3 trunk table kit
+2811 3 indoor plant kit
+2905 3 plate
+2948 3 wooden flute
+2949 3 lyre
+2950 3 lute
+2951 3 bongo drum
+2952 3 drum
+2953 3 panpipes
+2954 3 simple fanfare
+2955 3 fanfare
+2956 3 royal fanfare
+2957 3 post horn
+2958 3 war horn
+2965 3 didgeridoo
+2966 3 war drum
+2974 3 water pipe
+2977 3 pumpkinhead
+2978 3 pumpkinhead
+2980 3 water pipe
+2981 3 god flowers
+2983 3 flower bowl
+2984 3 honey flower
+2985 3 potted flower
+2988 3 exotic flowers
+2989 3 wooden doll
+2991 3 doll
+2993 3 teddy bear
+2994 3 model ship
+2995 3 piggy bank
+3001 3 bear doll
+3002 3 voodoo doll
+3046 3 magic light wand
+3068 3 crystal wand
+3076 3 crystal ball
+3077 3 ankh
+3078 3 mysterious fetish
+3209 3 voodoo doll
+3213 3 annihilation bear
+3215 3 phoenix egg
+3242 3 stuffed bunny
+3655 3 moon flower
+3658 3 red rose
+3659 3 blue rose
+3660 3 yellow rose
+3661 3 grave flower
+3668 3 tulip
+3673 3 orange star
+3674 3 goat grass
+3734 3 blood herb
+3735 3 stone herb
+3736 3 star herb
+3737 3 fern
+3738 3 sling herb
+3739 3 powder herb
+3740 3 shadow herb
+3741 3 troll green
+5080 3 panda teddy
+5086 3 monkey statue 'see' kit
+5087 3 monkey statue 'hear' kit
+5088 3 monkey statue 'speak' kit
+5479 3 cat's paw
+5615 3 pirate tapestry
+5668 3 mysterious voodoo skull
+5791 3 stuffed dragon
+5810 3 pirate voodoo doll
+5813 3 skull candle
+5928 3 empty goldfish bowl
+5929 3 goldfish bowl
+5953 3 raven herb
+6114 3 armor rack kit
+6115 3 weapon rack kit
+6371 3 oven kit
+6372 3 bookcase kit
+6387 3 christmas card
+6489 3 christmas branch
+6491 3 bat decoration
+6498 3 certificate
+6511 3 santa doll
+6525 3 skeleton decoration
+6566 3 stuffed dragon
+6567 3 santa doll
+6568 3 panda teddy
+6572 3 party trumpet
+6573 3 party trumpet
+6575 3 red balloons
+6576 3 fireworks rocket
+6577 3 green balloons
+7183 3 baby seal doll
+7184 3 baby seal doll
+7393 3 demon trophy
+7394 3 wolf trophy
+7395 3 orc trophy
+7396 3 behemoth trophy
+7397 3 deer trophy
+7398 3 cyclops trophy
+7399 3 dragon lord trophy
+7400 3 lion trophy
+7401 3 minotaur trophy
+7447 3 small ice statue
+7448 3 small ice statue
+7864 3 chimney kit
+8032 3 spiderwebs
+8146 3 oracle figurine
+8147 3 oracle figurine
+8178 3 toy spider
+8179 3 toy spider
+8191 3 vampire doll
+8531 3 blood goblet
+8532 3 blood skull
+8778 3 jester doll
+8923 3 velvet tapestry
+9027 3 crystal of focus
+9028 3 crystal of balance
+9045 3 royal tapestry
+9046 3 silky tapestry
+9056 3 black skull
+9059 3 small lamp
+9060 3 lit small lamp
+9061 3 crystal table kit
+9063 3 crystal pedestal
+9064 3 crystal pedestal
+9065 3 crystal pedestal
+9066 3 crystal pedestal
+9067 3 crystal of power
+9068 3 yalahari figurine
+9241 3 bloodkiss flower
+9389 3 fan doll of King Tibianus
+9613 3 sea serpent trophy
+10209 3 lizard weapon rack kit
+10216 3 dragon statue kit
+10244 3 bonebeast trophy
+10288 3 dragon throne kit
+10290 3 mini mummy
+10294 3 stuffed toad
+10338 3 santa teddy
+10339 3 snowman doll
+10347 3 dragon tapestry
+10398 3 draken trophy
+10419 3 lizard trophy
+10421 3 disgusting trophy
+11679 3 souleater trophy
+11694 3 snake god trophy
+11695 3 black jade cobra
+12482 3 hieroglyph banner
+12483 3 pharaoh banner
+12570 3 fan doll of Queen Eloise
+12571 3 fan doll of Queen Eloise
+12575 3 Whinona
+12576 3 Meandi
+12577 3 Impward
+12578 3 Evilina
+12579 3 Whinona
+12580 3 Meandi
+12581 3 Impward
+12582 3 Evilina
+12617 3 torn teddy
+12735 3 shimmer glower
+12807 3 shimmer ball
+14025 3 party lampions
+14026 3 party lampions
+14029 3 flower pot
+14033 3 flower pot
+14034 3 flower pot
+14035 3 flower pot
+14036 3 flower pot
+14037 3 flower pot
+14038 3 flower pot
+14153 3 basket
+14222 3 trophy of Obujos
+14223 3 trophy of Tanjis
+14224 3 trophy of Jaul
+14241 3 true heart of the sea
+14242 3 true heart of the sea
+14683 3 artist's brush
+14684 3 artist's palette
+14685 3 artist's canvas
+14686 3 artist's brush
+14741 3 easel kit
+14756 3 cake cabinet kit
+16094 3 crystal lamp
+16095 3 lit crystal lamp
+16097 3 glowing mushroom
+16098 3 lit glowing mushroom
+16165 3 pet pig
+16166 3 pet pig
+17825 3 rat god doll
+17972 3 canopy bed kit
+17974 3 venorean cabinet kit
+17975 3 venorean wardrobe kit
+17977 3 venorean drawer kit
+18327 3 jade Zaoan queen
+18328 3 jade Zaoan king
+18329 3 jade Zaoan bishop
+18330 3 jade Zaoan knight
+18331 3 jade Zaoan rook
+18332 3 jade Zaoan pawn
+18333 3 obsidian Zaoan queen
+18334 3 obsidian Zaoan king
+18335 3 obsidian Zaoan bishop
+18336 3 obsidian Zaoan knight
+18337 3 obsidian Zaoan rook
+18338 3 obsidian Zaoan pawn
+19361 3 sun mirror
+19365 3 trapped lightning
+19369 3 eye of the storm
+19371 3 glass of goo
+20277 3 psychedelic tapestry
+20278 3 demonic tapestry
+20279 3 eye pod
+20280 3 nightmare beacon
+20281 3 nightmare beacon
+20282 3 nightmare hook
+20308 3 frazzlemaw santa
+20309 3 leaf golem santa
+20311 3 snow globe
+20312 3 snow globe
+20315 3 snow flake tapestry
+20350 3 cake tapestry
+21218  Lisa's doll
+
+Tools
+646 3 elvenhair rope
+650 3 watering can
+953 3 nail
+2906 3 watch
+2911 3 candelabrum
+2914 3 lamp
+2917 3 candlestick
+2920 3 torch
+2932 3 oil lamp
+2933 3 small oil lamp
+3003 4 rope
+3101 spellbook
+3243 gemmed lamp
+3247 djinn's lamp
+3249 frozen starlight
+3451 pitchfork
+3452 rake
+3454 broom
+3455 hoe
+3456 pick
+3457 4 shovel
+3459 wooden hammer
+3460 hammer
+3461 saw
+3462 small axe
+3463 mirror
+3464 baking tray
+3466 pan
+3467 fork
+3468 spoon
+3469 kitchen knife
+3470 wooden spoon
+3471 cleaver
+3472 oven spatula
+3473 rolling pin
+3474 bowl
+3475 bowl
+3476 bowl
+3481 closed trap
+3482 trap
+3483 fishing rod
+3492 worm
+3509 inkwell
+4835 snake destroyer
+4872 ice pick
+5467 fire bug
+5710 light shovel
+5865 juice squeezer
+5908 obsidian knife
+5941 4 wooden stake
+5942 4 blessed wooden stake
+5946 comb
+6561 ceremonial ankh
+7785 bricklayers' kit
+7889 lock pick
+9016 flask of rust remover
+9234 worm punisher
+9235 golem disassembler
+9306 mechanical fishing rod
+9594 sneaky stabber of eliteness
+9595 sneaky stabber of eliteness
+9596 squeezing gear of girlpower
+9597 squeezing gear of girlpower
+9598 whacking driller of fate
+9599 whacking driller of fate
+16101 muck remover
+21217 green light
+
+Runes
+3147 blank rune
+3148 destroy field rune
+3149 energy bomb rune
+3152 intense healing rune
+3153 cure poison rune
+3155 sudden death rune
+3156 wild growth rune
+3158 icicle rune
+3160 ultimate healing rune
+3161 avalanche rune
+3164 energy field rune
+3165 paralyse rune
+3166 energy wall rune
+3172 poison field rune
+3173 poison bomb rune
+3174 light magic missile rune
+3175 stone shower rune
+3176 poison wall rune
+3177 convince creature rune
+3178 chameleon rune
+3179 stalagmite rune
+3180 magic wall rune
+3182 holy missile rune
+3188 fire field rune
+3189 fireball rune
+3190 fire wall rune
+3191 great fireball rune
+3192 fire bomb rune
+3195 soulfire rune
+3197 disintegrate rune
+3198 heavy magic missile rune
+3200 explosion rune
+3202 thunderstorm rune
+3203 animate dead rune
+
+Rings
+349 suspicious signet ring
+907 shapeshifter ring
+3004 wedding ring
+3006 ring of the sky
+3007 crystal ring
+3048 might ring
+3049 stealth ring
+3050 power ring
+3051 energy ring
+3052 life ring
+3053 time ring
+3063 gold ring
+3091 sword ring
+3092 axe ring
+3093 club ring
+3097 dwarven ring
+3098 ring of healing
+3245 ring of wishes
+6299 death ring
+9394 claw of 'The Noxious Spawn'
+9585 engraved wedding ring
+9593 broken wedding ring
+12669 star ring
+12737 broken ring of ending
+16114 prismatic ring
+19359 horn
+20182 ring of ending
+
+Armors
+811 3 terra mantle
+824 3 glacier robe
+825 3 lightning robe
+826 3 magma coat
+3357 3 plate armor
+3358 3 chain armor
+3359 3 brass armor
+3360 3 golden armor
+3361 3 leather armor
+3366 3 magic plate armor
+3370 3 knight armor
+3377 3 scale armor
+3378 3 studded armor
+3379 3 doublet
+3380 3 noble armor
+3381 3 crown armor
+3383 3 dark armor
+3386 3 dragon scale mail
+3388 3 demon armor
+3394 3 amazon armor
+3397 3 dwarven armor
+3399 3 elven mail
+3402 3 native armor
+3404 3 leopard armor
+3561 3 jacket
+3562 3 coat
+3563 3 green tunic
+3564 3 red tunic
+3565 3 cape
+3566 3 red robe
+3567 3 blue robe
+3568 3 simple dress
+3569 3 white dress
+3570 3 ball gown
+3571 3 ranger's cloak
+4836 3 spectral dress
+6095 3 pirate shirt
+7463 3 mammoth fur cape
+7991 3 magician's robe
+7993 3 witchhunter's coat
+8037 3 dark lord's cape
+8038 3 robe of the ice queen
+8039 3 dragon robe
+8040 3 velvet mantle
+8041 3 greenwood coat
+8042 3 spirit cloak
+8043 3 focus cape
+8044 3 belted cape
+8045 3 hibiscus dress
+8046 3 summer dress
+8047 3 tunic
+8048 3 girl's dress
+8049 3 lavos armor
+8050 3 crystalline armor
+8051 3 voltage armor
+8052 3 swamplair armor
+8053 3 fireborn giant armor
+8054 3 earthborn titan armor
+8055 3 windborn colossus armor
+8056 3 oceanborn leviathan armor
+8057 3 divine plate
+8058 3 molten plate
+8059 3 frozen plate
+8060 3 master archer's armor
+8061 3 skullcracker armor
+8062 3 robe of the underworld
+8063 3 paladin armor
+8064 3 ethno coat
+8862 3 yalahari armor
+9015 3 flower dress
+9379 3 heavy metal t-shirt
+9400 3 the rain coat
+9446 3 the rain coat
+10384 3 Zaoan armor
+10438 3 spellweaver's robe
+10439 3 Zaoan robe
+11651 3 elite draken mail
+11686 3 royal draken mail
+11687 3 royal scale robe
+11701 3 old cape
+13993 3 ornate chestplate
+13994 3 depth lorica
+14086 3 calopteryx cape
+16105 3 gill coat
+16110 3 prismatic armor
+17829 3 buckle
+17846 3 leather harness
+19358 3 albino plate
+19372 3 goo shell
+19391 3 furious frock
+21164 3 glooth cape
+21166 3 mooh'tah plate
+21167 3 heat core
+
+Special items
+14758 premium scroll
+
+Ammunition
+761 flash arrow
+762 shiver arrow
+763 flaming arrow
+774 earth arrow
+3446 bolt
+3447 arrow
+3448 poison arrow
+3449 burst arrow
+3450 power bolt
+6528 infernal bolt
+7363 piercing bolt
+7364 sniper arrow
+7365 onyx arrow
+14251 tarsal arrow
+14252 vortex bolt
+15793 crystalline arrow
+16141 prismatic bolt
+16142 drill bolt
+16143 envenomed arrow
+
+Shields
+30593 3 spellbook
+3409 3 steel shield
+3410 3 plate shield
+3411 3 brass shield
+3412 3 wooden shield
+3413 3 battle shield
+3414 3 mastermind shield
+3415 3 guardian shield
+3416 3 dragon shield
+3417 3 shield of honour
+3418 3 bonelord shield
+3419 3 crown shield
+3420 3 demon shield
+3421 3 dark shield
+3422 3 great shield
+3423 3 blessed shield
+3424 3 ornamented shield
+3425 3 dwarven shield
+3426 3 studded shield
+3427 3 rose shield
+3428 3 tower shield
+3429 3 black shield
+3430 3 copper shield
+3431 3 viking shield
+3432 3 ancient shield
+3433 3 griffin shield
+3434 3 vampire shield
+3435 3 castle shield
+3436 3 medusa shield
+3437 3 amazon shield
+3438 3 eagle shield
+3439 3 phoenix shield
+3440 3 scarab shield
+3441 3 bone shield
+3442 3 tempest shield
+3443 3 tusk shield
+3444 3 sentinel shield
+3445 3 salamander shield
+6131 3 tortoise shield
+6390 3 nightmare shield
+6432 3 necromancer shield
+7460 3 norse shield
+8072 3 spellbook of enlightenment
+8073 3 spellbook of warding
+8074 3 spellbook of mind control
+8075 3 spellbook of lost souls
+8076 3 spellscroll of prophecies
+8077 3 rainbow shield
+8078 3 fiery rainbow shield
+8079 3 icy rainbow shield
+8080 3 sparking rainbow shield
+8081 3 terran rainbow shield
+8090 3 spellbook of dark mysteries
+9372 3 meat shield
+9377 3 shield of the white knight
+9380 3 shield of care
+9401 3 the shield Nevermourn
+9447 3 the shield Nevermourn
+11688 3 shield of corruption
+11691 3 snake god's wristguard
+13998 3 depth scutum
+14000 3 ornate shield
+14042 3 warrior's shield
+14088 3 carapace shield
+14769 3 spellbook of ancient arcana
+16107 3 spellbook of vigilance
+16116 3 prismatic shield
+17810 3 spike shield
+19363 3 runic ice shield
+19373 3 haunted mirror piece
+20088 3 crude umbral spellbook
+20089 3 umbral spellbook
+20090 3 umbral master spellbook
+21175 3 mino shield
+
+Containers
+2469 box
+2471 crate
+2472 chest
+2473 box
+2478 treasure chest
+2480 chest
+2481 chest
+2482 chest
+2853 bag
+2854 backpack
+2855 basket
+2856 present
+2857 green bag
+2858 yellow bag
+2859 red bag
+2860 purple bag
+2861 blue bag
+2862 grey bag
+2863 golden bag
+2864 camouflage bag
+2865 green backpack
+2866 yellow backpack
+2867 red backpack
+2868 purple backpack
+2869 blue backpack
+2870 grey backpack
+2871 golden backpack
+2872 camouflage backpack
+2873 bucket
+2874 vial
+2875 bottle
+2876 vase
+2877 green flask
+2879 elven vase
+2880 mug
+2881 cup
+2882 jug
+2883 cup
+2884 cup
+2885 brown flask
+2893 amphora
+2901 waterskin
+2902 bowl
+2903 golden mug
+3244 old and used backpack
+3253 backpack of holding
+3465 pot
+3477 ewer
+3478 ewer
+3479 ewer
+3480 ewer
+3503 parcel
+3504 stamped parcel
+5552 rum flask
+5801 jewelled backpack
+5926 pirate backpack
+5927 pirate bag
+5949 beach backpack
+5950 beach bag
+6505 christmas present
+6509 christmas present
+6510 christmas present
+7342 fur backpack
+7343 fur bag
+8860 brocade backpack
+8861 brocade bag
+9232 cocktail glass
+9601 demon backpack
+9602 orange backpack
+9603 orange bag
+9604 moon backpack
+9605 crown backpack
+10202 heart backpack
+10324 expedition backpack
+10325 expedition bag
+10326 dragon backpack
+10327 minotaur backpack
+10346 santa backpack
+12478 delicate vase
+14248 deepling backpack
+14249 buggy backpack
+14674 anniversary backpack
+16099 mushroom backpack
+16100 crystal backpack
+18339 Zaoan chess box
+19159 pannier backpack
+20347 cake backpack
+21292 feedbag
+21295 glooth backpack
+
+Food
+836 walnut
+841 peanut
+901 marlin
+3250 the carrot of doom
+3577 meat
+3578 fish
+3579 salmon
+3580 northern pike
+3581 shrimp
+3582 ham
+3583 dragon ham
+3584 pear
+3585 red apple
+3586 orange
+3587 banana
+3588 blueberry
+3589 coconut
+3590 cherry
+3591 strawberry
+3592 grapes
+3593 melon
+3594 pumpkin
+3595 carrot
+3596 tomato
+3597 corncob
+3598 cookie
+3599 candy cane
+3600 bread
+3601 roll
+3602 brown bread
+3603 flour
+3604 lump of dough
+3605 bunch of wheat
+3606 egg
+3607 cheese
+3723 white mushroom
+3724 red mushroom
+3725 brown mushroom
+3726 orange mushroom
+3727 wood mushroom
+3728 dark mushroom
+3729 some mushrooms
+3730 some mushrooms
+3731 fire mushroom
+3732 green mushroom
+5096 mango
+5466 bunch of sugar cane
+5678 tortoise egg
+6125 tortoise egg from Nargor
+6276 lump of cake dough
+6277 cake
+6278 cake
+6279 party cake
+6392 valentine's cake
+6393 cream cake
+6500 gingerbreadman
+6541 coloured egg
+6542 coloured egg
+6543 coloured egg
+6544 coloured egg
+6545 coloured egg
+6569 candy
+6574 bar of chocolate
+7158 rainbow trout
+7159 green perch
+7372 ice cream cone
+7373 ice cream cone
+7374 ice cream cone
+7375 ice cream cone
+7376 ice cream cone
+7377 ice cream cone
+8010 potato
+8011 plum
+8012 raspberry
+8013 lemon
+8014 cucumber
+8015 onion
+8016 jalapeño pepper
+8017 beetroot
+8018 lump of chocolate dough
+8019 chocolate cake
+8020 baking tray
+8177 yummy gummy worm
+8197 bulb of garlic
+9079 rotworm stew
+9080 hydra tongue salad
+9081 roasted dragon wings
+9082 tropical fried terrorbird
+9083 banana chocolate shake
+9084 veggie casserole
+9085 filled jalapeño peppers
+9086 blessed steak
+9087 carrot cake
+9088 northern fishburger
+10219 crocodile steak
+10328 bunch of ripe rice
+10329 rice ball
+10453 terramite eggs
+11459 pineapple
+11460 aubergine
+11461 broccoli
+11462 cauliflower
+11584 coconut shrimp bake
+11586 pot of blackjack
+11587 demonic candy ball
+11588 sweet mangonaise elixir
+11681 ectoplasmic sushi
+11682 dragonfruit
+11683 peas
+11685 cheese cookie
+12310 haunch of boar
+13992 sandfish
+14084 larvae
+14085 deepling filet
+14681 anniversary cake
+16103 mushroom pie
+17457 insectoid eggs
+17820 soft cheese
+17821 rat cheese
+20310 christmas cookie tray
+21143 glooth sandwich
+21144 bowl of glooth soup
+21145 bottle of glooth wine
+21146 glooth steak
+
+Axe weapons
+665 3 fiery barbarian axe
+666 3 fiery knight axe
+667 3 fiery heroic axe
+668 3 fiery headchopper
+669 3 fiery war axe
+684 3 icy barbarian axe
+685 3 icy knight axe
+686 3 icy heroic axe
+687 3 icy headchopper
+688 3 icy war axe
+784 3 earth barbarian axe
+785 3 earth knight axe
+786 3 earth heroic axe
+787 3 earth headchopper
+788 3 earth war axe
+801 3 energy barbarian axe
+802 3 energy knight axe
+803 3 energy heroic axe
+804 3 energy headchopper
+805 3 energy war axe
+919 3 hallowed axe
+3266 3 battle axe
+3268 3 hand axe
+3269 3 halberd
+3274 3 axe
+3275 3 double axe
+3276 3 hatchet
+3293 3 sickle
+3302 3 dragon lance
+3303 3 great axe
+3306 3 golden sickle
+3313 3 obsidian lance
+3314 3 naginata
+3315 3 guardian halberd
+3316 3 orcish axe
+3317 3 barbarian axe
+3318 3 knight axe
+3319 3 stonecutter axe
+3320 3 fire axe
+3323 3 dwarven axe
+3328 3 daramian waraxe
+3329 3 daramian axe
+3331 3 ravager's axe
+3335 3 twin axe
+3342 3 war axe
+3344 3 beastslayer axe
+3346 3 ripper lance
+6553 3 ruthless axe
+7380 3 headchopper
+7388 3 vile axe
+7389 3 heroic axe
+7411 3 ornamented axe
+7412 3 butcher's axe
+7413 3 titan axe
+7419 3 dreaded cleaver
+7420 3 reaper's axe
+7433 3 ravenwing
+7434 3 royal axe
+7435 3 impaler
+7436 3 angelic axe
+7453 3 executioner
+7454 3 glorious axe
+7455 3 mythril axe
+7456 3 noble axe
+7773 3 steel axe
+8096 3 hellforged axe
+8097 3 solar axe
+8098 3 demonwing axe
+9384 3 scythe of the reaper
+9386 3 farmer's avenger
+10388 3 drakinata
+10406 3 Zaoan halberd
+12683 3 heavy trident
+13991 3 deepling axe
+14040 3 warrior's axe
+14043 3 guardian axe
+14089 3 hive scythe
+16161 3 crystalline axe
+20070 3 crude umbral axe
+20071 3 umbral axe
+20072 3 umbral master axe
+20073 3 crude umbral chopper
+20074 3 umbral chopper
+20075 3 umbral master chopper
+21174 3 mino lance
+21176 3 execowtioner axe
+21180 3 glooth axe
+
+Sword weapons
+660 3 fiery spike sword
+661 3 fiery relic sword
+662 3 fiery mystic blade
+663 3 fiery blacksteel sword
+664 3 fiery dragon slayer
+679 3 icy spike sword
+680 3 icy relic sword
+681 3 icy mystic blade
+682 3 icy blacksteel sword
+683 3 icy dragon slayer
+779 3 earth spike sword
+780 3 earth relic sword
+781 3 earth mystic blade
+782 3 earth blacksteel sword
+783 3 earth dragon slayer
+794 3 energy spike sword
+795 3 energy relic sword
+796 3 energy mystic blade
+797 3 energy blacksteel sword
+798 3 energy dragon slayer
+860 3 crimson sword
+3264 3 sword
+3265 3 two handed sword
+3267 3 dagger
+3271 3 spike sword
+3272 3 rapier
+3273 3 sabre
+3278 3 magic longsword
+3280 3 fire sword
+3281 3 giant sword
+3283 3 carlin sword
+3284 3 ice rapier
+3285 3 longsword
+3288 3 magic sword
+3290 3 silver dagger
+3291 3 knife
+3292 3 combat knife
+3294 3 short sword
+3295 3 bright sword
+3296 3 warlord sword
+3297 3 serpent sword
+3299 3 poison dagger
+3300 3 katana
+3301 3 broadsword
+3307 3 scimitar
+3308 3 machete
+3326 3 epee
+3330 3 heavy machete
+3334 3 pharaoh sword
+3338 3 bone sword
+3339 3 djinn blade
+3345 3 templar scytheblade
+6527 3 the avenger
+7382 3 demonrage sword
+7383 3 relic sword
+7384 3 mystic blade
+7385 3 crimson sword
+7386 3 mercenary sword
+7390 3 the justice seeker
+7391 3 thaian sword
+7402 3 dragon slayer
+7403 3 berserker
+7404 3 assassin dagger
+7405 3 havoc blade
+7406 3 blacksteel sword
+7407 3 haunted blade
+7408 3 wyvern fang
+7416 3 bloody edge
+7417 3 runed sword
+7418 3 nightmare blade
+7449 3 crystal sword
+7774 3 jagged sword
+8102 3 emerald sword
+8103 3 the epiphany
+8104 3 the calamity
+9375 3 pointed rabbitslayer
+9387 3 poet's fencing quill
+9396 3 incredible mumpiz slayer
+10389 3 sai
+10390 3 Zaoan sword
+10392 3 twin hooks
+11657 3 twiceslicer
+11693 3 blade of corruption
+12673 3 wooden sword
+16160 3 crystalline sword
+16175 3 shiny blade
+17812 3 ratana
+20064 3 crude umbral blade
+20065 3 umbral blade
+20066 3 umbral masterblade
+20067 3 crude umbral slayer
+20068 3 umbral slayer
+20069 3 umbral master slayer
+21177 3 cowtana
+21179 3 glooth blade
+102 white flower
+107 special flask
+110 special flask
+112 magical watch
+113 the dwarven emperor's beard
+117 crate
+118 crate
+119 box
+120 some special leaves
+121 whoopee cushion
+123 toy mouse
+124 easily inflammable sulphur
+125 special flask
+126 special flask
+127 magical inkwell
+128 signed contract
+129 contract
+130 exploding cookie
+131 ectoplasm container
+133 special flask
+135 special flask
+136 beer bottle
+138 empty beer bottle
+140 parcel
+141 cigar
+142 bale of white cloth
+143 bale of yellowed cloth
+144 mummy disguise
+145 heavy package
+170 fake dwarven beard
+172 blank poetry parchment
+235 bag
+347 scroll
+348 intelligence reports
+350 case of rust bugs
+396 technomancer beard
+397 amazon disguise kit
+399 building plans for a ship
+400 suspicious documents
+401 book
+402 secret letter
+403 File AH-X17L89
+404 barrel of beer
+405 weapons crate
+648 nature magic spellbook
+652 rotten heart of a tree
+892 package of potions
+897 mysterious package
+898 mysterious package
+899 mysterious package
+906 present
+939 bait
+940 natural soil
+941 glimmering soil
+942 flawless ice crystal
+943 holy soil
+944 iced soil
+945 energy soil
+946 eternal flames
+947 mother soil
+948 pure energy
+954 neutral matter
+3104 banana skin
+3105 dirty fur
+3110 piece of iron
+3114 skull
+3115 bone
+3120 mouldy cheese
+3205 family brooch
+3206 dragonfetish
+3207 skull of Ratha
+3211 witchesbroom
+3214 blessed ankh
+3216 bill
+3217 letterbag
+3218 present
+3219 Waldo's post horn
+3220 letter to Markwin
+3222 helmet ornament
+3223 gem holder
+3224 right horn
+3225 left horn
+3227 helmet piece
+3228 helmet adornment
+3231 gemmed lamp
+3232 spyreport
+3233 tear of daraman
+3234 cookbook
+4049 magical measurement device
+4050 spirit cage
+4827 whisper moss
+4828 flask of cough syrup
+4829 witches' cap spot
+4831 old parchment
+4832 giant ape's hair
+4834 family brooch
+4838 strange powder
+4839 hydra egg
+4840 spectral stone
+4841 memory stone
+4842 sheet of tracing paper
+4843 sheet of tracing paper
+4844 elven poetry book
+4845 dwarven pickaxe
+4846 wrinkled parchment
+4847 funeral urn
+4852 ectoplasm container
+4853 ectoplasm container
+4863 butterfly conservation kit
+4864 butterfly conservation kit
+4865 butterfly conservation kit
+4866 butterfly conservation kit
+4867 botanist's container
+4868 botanist's container
+4869 botanist's container
+4870 botanist's container
+5089 butterfly conservation kit
+5706 treasure map
+5786 wooden whistle
+5792 die
+5793 die
+5794 die
+5795 die
+5796 die
+5797 die
+5802 message in a bottle
+5924 damaged steel helmet
+5937 griffinclaw container
+5938 Ceiron's waterskin
+5939 Ceiron's waterskin
+5945 coral comb
+5947 Elane's crossbow
+5951 fish tail
+5957 lottery ticket
+5958 winning lottery ticket
+6086 faked label
+6087 music sheet
+6088 music sheet
+6089 music sheet
+6090 music sheet
+6091 very noble-looking watch
+6092 very noble-looking watch
+6093 crystal ring
+6105 Striker's favourite pillow
+6106 bottle of whisper beer
+6107 staff
+6108 atlas
+6113 letter to Eremo
+6119 poem scroll
+6120 Dragha's spellbook
+6124 damaged logbook
+6522 gingerbread recipe
+6547 yellow powder
+6548 purple powder
+6549 green powder
+6550 red powder
+6551 blue powder
+7140 mead horn
+7141 mead horn
+7242 resonance crystal
+7243 empty jug
+7244 jug
+7245 piece of cactus
+7246 Nilsor's waterskin
+7247 fine sulphur
+7248 frostbite herb
+7249 purple kiss blossom
+7251 mushroom spores
+7253 flask with paint
+7281 memory crystal
+7286 Nilsor's waterskin
+7289 frost charm
+7290 shard
+7314 scale from a frozen dragon
+7315 resonance crystal
+7441 ice cube
+7442 ice cube
+7444 ice cube
+7445 ice cube
+7446 ice mammoth
+7527 jewel case
+7528 piece of a broken amulet
+7529 piece of a broken amulet
+7530 piece of a broken amulet
+7531 piece of a broken amulet
+7533 nomad parchment
+7865 dwarf disguise kit
+7866 deed of ownership
+7870 stolen golden goblet
+7871 the famous Mina Losa painting
+7873 note from the thieves guild
+7924 the ring of the count
+7932 valuable vase
+7933 invitation
+7934 Theodore Loveless' key
+7935 compromising letter
+7936 fishnapped goldfish
+7939 precious necklace
+7940 letter to Chantalle
+8117 theatre script
+8194 garlic bread
+8195 lump of holy water dough
+8196 lump of garlic dough
+8199 garlic cookie
+8200 Julius' map
+8225 blood crystal
+8453 blood crystal
+8717 the dust of Boreth
+8718 the dust of Lersatio
+8719 the dust of Marziel
+8720 the dust of Arthei
+8746 ghost's tear
+8758 bottle of bug milk
+8759 sample of venorean spice
+8760 sample of sand wasp honey
+8761 jug of embalming fluid
+8762 piece of royal satin
+8763 bowl of evergreen flowers
+8764 research notes
+8772 food crate
+8773 Iriana's chest
+8774 cask of brown ale
+8777 Rerun's ring
+8818 the alchemists' formulas
+8819 animal cure
+8820 Morik's helmet
+8822 ghost charm
+8827 charged ghost charm
+8828 weapon matrix crystal
+8829 food matrix crystal
+9034 dracoyle statue
+9035 dracoyle statue
+9039 dracoyle statue
+9040 dracoyle statue
+9106 molten wax
+9107 special polish
+9109 fish flakes
+9112 flask with magical oil
+9113 magical cage key
+9114 wooden ties
+9115 metal fitting
+9127 hat for Eclesius
+9128 hat for Eclesius
+9129 hat for Eclesius
+9131 Eclesius' sandals
+9142 Grodrik's favourite axe
+9143 Amarie's favourite book
+9172 prison cell key
+9173 love potion
+9181 the top right part of a map
+9182 the top left part of a map
+9183 the lower right part of a map
+9184 the lower left part of a map
+9185 very old piece of paper
+9186 old encrypted text
+9187 Xodet's first wand
+9188 formula for a memory potion
+9191 bundle of rags
+9201 heated worm punisher
+9204 old pirate poem
+9205 pirate treasure map
+9233 golem part
+9236 animal fetish
+9237 shadow orb
+9238 dark essence
+9239 worm queen tooth
+9240 deep crystal
+9247 golem blueprint
+9248 stabilizer
+9249 mago mechanic core
+9251 elemental crystal
+9252 old power core
+9255 golem head
+9307 mechanical fish
+9308 nautical map
+9388 holy icon
+9390 machine crate
+9391 fan club membership card
+9537 headache pill
+9586 wedding outfit box
+9616 bejeweled ship's telescope
+9617 bejeweled ship's telescope
+9618 bejeweled ship's telescope
+9619 bejeweled ship's telescope
+9696 plans for a strange device
+9697 rare crystal
+9698 carrying device
+9699 filled carrying device
+9843 flask with beaver bait
+10009 flask of crown polisher
+10011 map to the unknown
+10025 almanac of magic
+10026 baby rotworm
+10027 universal tool
+10028 soul contract
+10159 skull of a caveman
+10183 flask of poison
+10184 tactical map
+10189 flask of extra greasy oil
+10218 corned fish
+10247 weapons crate
+10422 clay lump
+10426 piece of marble rock
+11328 marked crate
+11329 lump of clay
+11331 sacred bowl
+11333 bowl with sacred water
+11334 sacred coal
+11339 unworked sacred wood
+11341 sacred earth
+11344 lump of sacred clay
+11347 sacred bowl of purification
+11362 replica of the sceptre
+11364 flask of plant poison
+11367 the tail of the Keeper
+11368 sceptre part
+11369 sceptre part
+11370 sceptre part
+11371 snake sceptre
+11372 interdimensional potion
+11426 scribbled sheet of paper
+11545 exquisite silk
+11546 spectral cloth
+11547 exquisite wood
+11548 strong sinew
+11549 old iron
+11550 flexible dragon scale
+11551 mystic root
+11552 magic crystal
+11699 botany almanach
+11982 dry piece of wood
+12057 reward box
+12077 slime gobbler
+12123 ghost duster
+12128 emergency kit
+12143 sweet and sugary substance
+12171 handcrafted ribbon
+12173 rabbit's foot lucky charm
+12174 fake rabbit's foot
+12175 spoon with a ribbon
+12178 demon infant
+12179 demon infant
+12180 demon infant
+12181 demon infant
+12182 demon infant
+12186 net
+12229 screaming cherry
+12230 meaty vortex
+12231 tonguefruit
+12232 rotten witches' cauldron seed
+12233 toxic tulip seed
+12234 sprocketwhip cone
+12235 witherblossom
+12237 scum bag
+12251 shapechanger
+12369 captured wolf
+12413 belongings of a deceased
+12602 small whistle
+12675 book of orc language
+12722 bucket of bog water
+12803 elemental spikes
+12819 prepared bucket
+14018 the Heart of the Sea
+14019 small golden anchor
+14020 soul net
+14027 party wall tinsel
+14028 party wall snake
+14052 flask of chitin dissolver
+14053 flask of dissolved chitin
+14054 reagent flask
+14156 dog collar
+14172 gooey mass
+14173 seashell book
+14174 seashell book
+14175 seashell book
+14176 notes and coordinates
+14751 pirates surprise
+15698 gnomish supply package
+16102 mucus plug
+16128 minor crystalline token
+16129 major crystalline token
+16167 teleport crystal
+16242 red teleport crystal
+16252 gnomish voucher type MB
+16253 gnomish voucher type MA1
+16254 gnomish voucher type MA2
+16255 gnomish voucher type CB
+16256 gnomish voucher type CA1
+16257 gnomish voucher type CA2
+18924 tooth file
+18925 lancet
+18926 horoscope
+18927 vampire's cape chain
+18928 blood tincture in a vial
+18929 incantation notes
+18930 pieces of magic chalk
+18931 candle made of human tallow
+18933 incantation fragment
+18935 vampire's signet ring
+18936 the Vampire Count's medal
+19146 torn incantation fragment
+19251 smoking coal
+20264 unrealized dream
+20270 silver prison key
+20271 copper prison key
+20272 bronze prison key
+20273 golden prison key
+20313 santa music box
+20314 santa music box
+21203 glooth bag
+21333 belongings of a deceased
+21334 belongings of a deceased
+
+Club weapons
+6703  fiery clerical mace
+671 3 fiery crystal mace
+672 3 fiery cranial basher
+673 3 fiery orcish maul
+674 3 fiery war hammer
+689 3 icy clerical mace
+690 3 icy crystal mace
+691 3 icy cranial basher
+692 3 icy orcish maul
+693 3 icy war hammer
+789 3 earth clerical mace
+790 3 earth crystal mace
+791 3 earth cranial basher
+792 3 earth orcish maul
+793 3 earth war hammer
+806 3 energy clerical mace
+807 3 energy crystal mace
+808 3 energy cranial basher
+809 3 energy orcish maul
+810 3 energy war hammer
+3208 3 giant smithhammer
+3270 3 club
+3279 3 war hammer
+3282 3 morning star
+3286 3 mace
+3289 3 staff
+3304 3 crowbar
+3305 3 battle hammer
+3309 3 thunder hammer
+3310 3 iron hammer
+3311 3 clerical mace
+3312 3 silver mace
+3321 3 enchanted staff
+3322 3 dragon hammer
+3324 3 skull staff
+3325 3 light mace
+3327 3 daramian mace
+3332 3 hammer of wrath
+3333 3 crystal mace
+3336 3 studded club
+3337 3 bone club
+3340 3 heavy mace
+3341 3 arcane staff
+3343 3 lich staff
+3348 3 banana staff
+3453 3 scythe
+7379 3 brutetamer's staff
+7381 3 mammoth whopper
+7387 3 diamond sceptre
+7392 3 orcish maul
+7409 3 northern star
+7410 3 queen's sceptre
+7414 3 abyss hammer
+7415 3 cranial basher
+7421 3 onyx flail
+7422 3 jade hammer
+7423 3 skullcrusher
+7424 3 lunar staff
+7425 3 taurus mace
+7426 3 amber staff
+7427 3 chaos mace
+7428 3 bonebreaker
+7429 3 blessed sceptre
+7430 3 dragonbone staff
+7431 3 demonbone
+7432 3 furry club
+7437 3 sapphire hammer
+7450 3 hammer of prophecy
+7451 3 shadow sceptre
+7452 3 spiked squelcher
+8099 3 dark trinity mace
+8100 3 obsidian truncheon
+8101 3 the stomper
+9373 3 glutton's mace
+9376 3 stale bread of ancientness
+9385 3 club of the fury
+10391 3 drachaku
+11692 3 snake god's sceptre
+13987 3 deepling staff
+14001 3 ornate mace
+14250 3 deepling squelcher
+16162 3 mycological mace
+17813 3 life preserver
+17824 3 swampling club
+17828 3 pair of iron fists
+17859 3 spiky club
+20076 3 crude umbral mace
+20077 3 umbral mace
+20078 3 umbral master mace
+20079 3 crude umbral hammer
+20080 3 umbral hammer
+20081 3 umbral master hammer
+21171 3 metal bat
+21172 3 glooth whip
+21173 3 moohtant cudgel
+21178 3 glooth club
+21219 3 one hit wonder
+
+Legs
+645 3 blue legs
+812 3 terra legs
+821 3 magma legs
+822 3 lightning legs
+823 3 glacier kilt
+3362 3 studded legs
+3363 3 dragon scale legs
+3364 3 golden legs
+3371 3 knight legs
+3372 3 brass legs
+3382 3 crown legs
+3389 3 demon legs
+3398 3 dwarven legs
+3401 3 elven legs
+3557 3 plate legs
+3558 3 chain legs
+3559 3 leather legs
+3560 3 bast skirt
+5918 3 pirate knee breeches
+7464 3 mammoth fur shorts
+8095 3 ranger legs
+8863 3 yalahari leg piece
+9014 3 leaf legs
+9383 3 trousers of the ancients
+10387 3 Zaoan legs
+13996 3 depth ocrea
+13999 3 ornate legs
+14087 3 grasshopper legs
+16106 3 gill legs
+16111 3 prismatic legs
+19366 3 icy culotte
+21168 3 alloy legs
+
+Valuables
+281 giant shimmering pearl
+282 giant shimmering pearl
+647 seeds
+653 costume bag
+654 costume bag
+655 costume bag
+675 small enchanted sapphire
+676 small enchanted ruby
+677 small enchanted emerald
+678 small enchanted amethyst
+768 document of the follower
+769 document of the officer
+770 document of the leader
+2848 purple tome
+2849 green tome
+2850 blue tome
+2851 grey tome
+2852 red tome
+3005 elven brooch
+3010 emerald bangle
+3017 silver brooch
+3020 some golden fruits
+3023 holy scarab
+3024 holy falcon
+3026 white pearl
+3027 black pearl
+3028 small diamond
+3029 small sapphire
+3030 small ruby
+3032 small emerald
+3033 small amethyst
+3034 talon
+3036 violet gem
+3037 yellow gem
+3038 green gem
+3039 red gem
+3040 gold nugget
+3041 blue gem
+3042 scarab coin
+3044 tusk
+3058 strange symbol
+3060 orb
+3061 life crystal
+3062 mind stone
+3103 cornucopia
+3997 Tibiora's box
+4010 Tibiora's box
+4061 stone of wisdom
+4065 statue of Devovorga
+4115 phoenix statue
+4871 explorer brooch
+5014 mandrake
+5021 orichalcum pearl
+5804 nose ring
+5808 orshabaal's brain
+5809 soul stone
+5875 sniper gloves
+5876 lizard leather
+5877 green dragon leather
+5878 minotaur leather
+5879 spider silk
+5880 iron ore
+5881 lizard scale
+5882 red dragon scale
+5883 ape fur
+5884 spirit container
+5885 flask of warrior's sweat
+5886 spool of yarn
+5887 piece of royal steel
+5888 piece of hell steel
+5889 piece of draconian steel
+5890 chicken feather
+5891 enchanted chicken wing
+5892 huge chunk of crude iron
+5893 perfect behemoth fang
+5894 bat wing
+5895 fish fin
+5896 bear paw
+5897 wolf paw
+5898 bonelord eye
+5899 turtle shell
+5900 dwarven beard
+5901 wood
+5902 honeycomb
+5903 Ferumbras' hat
+5904 magic sulphur
+5905 vampire dust
+5906 demon dust
+5907 slingshot
+5909 01 white piece of cloth
+5910 01 green piece of cloth
+5911 01 red piece of cloth
+5912 01 blue piece of cloth
+5913 01 brown piece of cloth
+5914 01 yellow piece of cloth
+5919 dragon claw
+5920 green dragon scale
+5921 heaven blossom
+5922 01 holy orchid
+5925 hardened bone
+5930 01 behemoth claw
+5943 morgaroth's heart
+5944 soul orb
+5948 01 red dragon leather
+5954 demon horn
+6097 hook
+6098 eye patch
+6099 Brutus Bloodbeard's hat
+6100 the Lethal Lissy's shirt
+6101 Ron the Ripper's sabre
+6102 Deadeye Devious' eye patch
+6104 jewel case
+6126 01 peg leg
+6496 christmas present bag
+6499 01 demonic essence
+6526 christmas token
+6534 the Imperor's trident
+6535 the Plasmother's remains
+6536 Countess Sorrow's frozen tear
+6537 Mr. Punish's handcuffs
+6539 the Handmaiden's protector
+6540 piece of Massacre's shell
+6546 Dracola's eye
+6558 concentrated demonic blood
+6570 surprise bag
+6571 surprise bag
+7250 hydra tongue
+7786 orc tusk
+8031 spider fangs
+8143 gland
+8148 golden falcon
+8149 Tibiacity Encyclopedia
+8153 golden newspaper
+8154 norseman doll
+8157 norseman doll
+8174 Tibiacity Encyclopedia
+8175 golden falcon
+8176 golden newspaper
+8192 vampire lord token
+8775 gear wheel
+8779 the head of a jester doll
+8780 the torso of a jester doll
+8781 part of a jester doll
+8782 part of a jester doll
+8783 part of a jester doll
+8784 part of a jester doll
+8853 suspicious surprise bag
+8894 rusty armor
+8895 rusty armor
+8896 rusty armor
+8897 rusty legs
+8898 rusty legs
+8899 rusty legs
+9041 vampiric crest
+9053 glob of mercury
+9054 glob of acid slime
+9055 glob of tar
+9057 small topaz
+9058 gold ingot
+9144 Epaminondas doll
+9145 Epaminondas doll
+9189 hand puppets
+9190 hand puppets
+9606 egg of The Many
+9615 midnight shard
+9631 scarab pincers
+9632 ancient stone
+9633 bloody pincers
+9634 cobra tongue
+9635 elvish talisman
+9636 fiery heart
+9637 hellhound slobber
+9638 cultish mask
+9639 cultish robe
+9640 poisonous slime
+9641 piece of scarab shell
+9642 spooky blue eye
+9643 thorn
+9644 wyvern talisman
+9645 black hood
+9646 book of prayers
+9647 demonic skeletal hand
+9648 frosty ear of a troll
+9649 gauze bandage
+9650 polar bear paw
+9651 scorpion tail
+9652 witch broom
+9654 war crystal
+9655 gear crystal
+9656 broken gladiator shield
+9657 cyclops toe
+9658 frost giant pelt
+9659 half-eaten brain
+9660 mystical hourglass
+9661 frosty heart
+9662 mutated bat ear
+9663 piece of dead brain
+9664 piece of hellfire armor
+9665 wyrm scale
+9666 sea serpent scale
+9667 boggy dreads
+9668 mutated rat tail
+9683 haunted piece of wood
+9684 tattered piece of robe
+9685 vampire teeth
+9686 swamp grass
+9688 bundle of cursed straw
+9689 bunch of troll hair
+9690 ghostly tissue
+9691 lion's mane
+9692 lump of dirt
+9693 pig foot
+9694 snake skin
+9802 friendship amulet
+9803 friendship amulet
+10196 orc tooth
+10198 tribal crest
+10199 serpent crest
+10217 Tome of Knowledge
+10227 nightmare doll
+10272 crab pincers
+10273 terrorbird beak
+10274 skunk tail
+10275 carrion worm fang
+10276 elder bonelord tentacle
+10277 bony tail
+10278 stone wing
+10279 piece of crocodile leather
+10280 giant eye
+10281 tarantula egg
+10282 hydra head
+10283 half-digested piece of meat
+10289 red lantern
+10291 rotten piece of cloth
+10292 silky fur
+10293 striped fur
+10295 winter wolf fur
+10296 acorn
+10297 antlers
+10298 metal spike
+10299 badger fur
+10300 carniphila seeds
+10301 centipede leg
+10302 compass
+10303 dark rosary
+10304 hellspawn tail
+10305 lump of earth
+10306 essence of a bad dream
+10307 thick fur
+10308 mutated flesh
+10309 strand of medusa hair
+10310 shiny stone
+10311 sabretooth
+10312 scythe leg
+10313 winged tail
+10314 nettle blossom
+10315 sulphurous stone
+10316 unholy bone
+10317 werewolf fur
+10318 warwolf fur
+10319 wool
+10320 book of necromantic rituals
+10321 mammoth tusk
+10341 phoenix charm
+10342 unity charm
+10343 spiritual charm
+10344 twin sun charm
+10345 solitude charm
+10397 weaver's wandtip
+10404 bone shoulderplate
+10405 warmaster's wristguards
+10407 shaggy tail
+10408 spiked iron ball
+10409 corrupted flag
+10410 cursed shoulder spikes
+10411 widow's mandibles
+10413 zaogun flag
+10414 zaogun shoulderplates
+10415 high guard flag
+10416 high guard shoulderplates
+10417 legionnaire flags
+10418 broken halberd
+10420 petrified scream
+10444 dragon priest's wandtip
+10449 ghastly dragon head
+10450 undead heart
+10452 terramite shell
+10454 terramite legs
+10455 lancer beetle shell
+10456 sandcrawler shell
+10476 lucky clover amulet
+10477 dragon goblet
+10798 ferumbras doll
+10799 ferumbras doll
+10800 orc's jaw shredder
+10801 orc's jaw shredder
+10817 bag of oriental spices
+10818 bag of oriental spices
+11443 girlish hair decoration
+11444 protective charm
+11445 bamboo stick
+11446 hair of a banshee
+11447 battle stone
+11448 black wool
+11449 blood preservation
+11450 small notebook
+11451 broken crossbow
+11452 broken shamanic staff
+11453 broken helmet
+11454 luminous orb
+11455 cultish symbol
+11456 dirty turban
+11457 dragon's tail
+11458 geomancer's robe
+11463 geomancer's staff
+11464 elven scouting glass
+11465 elven astral observer
+11466 flask of embalming fluid
+11467 ghoul snack
+11469 hunter's quiver
+11470 jewelled belt
+11471 kongra's shoulderpad
+11472 minotaur horn
+11473 purple robe
+11474 miraculum
+11475 necromantic robe
+11476 nettle spit
+11477 orcish gear
+11478 shamanic hood
+11479 orc leather
+11480 skull belt
+11481 pelvis bone
+11482 piece of warrior armor
+11483 piece of archer armor
+11484 pile of grave earth
+11485 poison spider shell
+11486 noble turban
+11487 quara tentacle
+11488 quara eye
+11489 mantassin tail
+11490 quara pincers
+11491 quara bone
+11492 rope belt
+11493 safety pin
+11510 scroll of heroic deeds
+11511 banana sash
+11512 small flask of eyedrops
+11513 small pitchfork
+11514 colourful feather
+11515 trollroot
+11539 goblin ear
+11603 silver rune emblem
+11604 golden rune emblem
+11605 silver rune emblem
+11606 golden rune emblem
+11607 silver rune emblem
+11608 golden rune emblem
+11609 silver rune emblem
+11610 golden rune emblem
+11611 silver rune emblem
+11612 golden rune emblem
+11613 silver rune emblem
+11614 golden rune emblem
+11615 silver rune emblem
+11616 golden rune emblem
+11617 silver rune emblem
+11618 golden rune emblem
+11619 silver rune emblem
+11620 golden rune emblem
+11621 silver rune emblem
+11622 golden rune emblem
+11623 silver rune emblem
+11624 golden rune emblem
+11625 silver rune emblem
+11626 golden rune emblem
+11627 silver rune emblem
+11628 golden rune emblem
+11629 silver rune emblem
+11630 golden rune emblem
+11631 silver rune emblem
+11632 golden rune emblem
+11633 silver rune emblem
+11634 golden rune emblem
+11635 silver rune emblem
+11636 golden rune emblem
+11637 silver rune emblem
+11638 golden rune emblem
+11639 silver rune emblem
+11640 golden rune emblem
+11641 silver rune emblem
+11642 golden rune emblem
+11643 silver rune emblem
+11644 golden rune emblem
+11645 silver rune emblem
+11646 golden rune emblem
+11647 silver rune emblem
+11648 golden rune emblem
+11649 silver rune emblem
+11650 golden rune emblem
+11652 broken key ring
+11658 draken sulphur
+11659 draken wristbands
+11660 broken draken mail
+11661 broken slicer
+11666 tentacle piece
+11671 eye of corruption
+11672 tail of corruption
+11673 scale of corruption
+11680 lizard essence
+11684 downy feather
+11702 brimstone fangs
+11703 brimstone shell
+12039 panther head
+12040 panther paw
+12041 frozen heart
+12042 frozen heart
+12043 draken doll
+12044 draken doll
+12045 music box
+12046 music box
+12172 rabbit's foot
+12260 hunting horn
+12304 maxilla maximus
+12305 tin key
+12306 leather whip
+12307 harness
+12308 reins
+12309 draptor scales
+12311 carrot on a stick
+12312 stampor horn
+12313 stampor talons
+12314 hollow stampor hoof
+12315 maxilla
+12316 cavebear skull
+12317 giant crab pincer
+12318 giant shrimp
+12320 sweet smelling bait
+12509 scorpion sceptre
+12517 medicine pouch
+12519 slug drug
+12541 demonic finger
+12544 white deer antlers
+12545 white deer skin
+12546 fist on a stick
+12547 diapason
+12548 bag of apple slices
+12549 bamboo leaves
+12550 golden fir cone
+12551 ominous piece of cloth
+12552 dubious piece of cloth
+12553 voluminous piece of cloth
+12554 obvious piece of cloth
+12555 ludicrous piece of cloth
+12556 luminous piece of cloth
+12557 shimmer swimmer
+12572 dragon goblet
+12600 coal
+12601 slime mould
+12730 eye of a deepling
+12736 babel swimmer
+12742 yielowax
+12786 plague mask
+12787 plague bell
+12801 golden can of oil
+12802 sugar oat
+12805 yielocks
+12806 flintstone
+12809 The Epic Wisdom
+12810 The Epic Wisdom
+12811 Imortus
+12812 Imortus
+12813 old radio
+12814 old radio
+12904 dread doll
+12905 dread doll
+13844 ice flower seeds
+14008 spellsinger's seal
+14009 key to the Drowned Library
+14010 deepling guard belt buckle
+14011 deepling breaktime snack
+14012 deepling warts
+14013 deeptags
+14017 deepling scales
+14021 Jaul's Pearl
+14022 Tanjis' Sight
+14023 Obujos' Shell
+14041 deepling ridge
+14044 deepling claw
+14076 swarmer antenna
+14077 kollos shell
+14078 spitter nose
+14079 crawler head plating
+14080 waspoid claw
+14081 waspoid wing
+14082 spidris mandible
+14083 compound eye
+14112 bar of gold
+14142 foxtail
+14143 four-leaf clover
+14225 dung ball
+14671 Delany's golden bug trophy
+14672 Bolfrim's golden bug trophy
+14673 Siramal's golden bug trophy
+14682 Chayenne's magical key
+14753 dung ball
+14759 surprise nest
+14760 mathmaster shield
+14761 mathmaster shield
+14762 medusa skull
+14763 medusa skull
+14764 doll of Durin The Almighty
+14765 doll of Durin The Almighty
+14766 majestic shield
+14767 majestic shield
+16119 blue crystal shard
+16120 violet crystal shard
+16121 green crystal shard
+16122 green crystal splinter
+16123 brown crystal splinter
+16124 blue crystal splinter
+16125 cyan crystal fragment
+16126 red crystal fragment
+16127 green crystal fragment
+16130 magma clump
+16131 blazing bone
+16132 eye of a weeper
+16133 pulverized ore
+16134 cliff strider claw
+16135 vein of ore
+16136 Deathstrike's snippet
+16137 stone nose
+16138 crystalline spikes
+16139 humongous chunk
+16140 hideous chunk
+16153 iron loadstone
+16154 glow wine
+16155 decorative ribbon
+16205 Gnomevil's hat
+16206 Abyssador's lash
+16229 tail of Abyssador
+16230 torso of Abyssador
+16231 head of Abyssador
+16232 statue of Abyssador
+16233 the legs of Deathstrike
+16234 the torso of Deathstrike
+16235 head of Deathstrike
+16236 statue of Deathstrike
+16237 legs of Gnomevil
+16238 torso of Gnomevil
+16239 head of Gnomevil
+16240 statue of Gnomevil
+16244 music box
+16251 golem wrench
+16262 dragon eye
+16263 dragon eye
+16275 noble sword
+16276 noble sword
+17458 damselfly wing
+17461 marsh stalker beak
+17462 marsh stalker feather
+17463 damselfly eye
+17809 bola
+17817 cheese cutter
+17818 cheesy figurine
+17819 earflap
+17822 swampling moss
+17823 piece of swampling wood
+17826 lost basher's spike
+17827 bloody dwarven beard
+17830 bonecarving knife
+17831 bone fetish
+17847 wimp tooth chain
+17848 lost husher's staff
+17849 skull shatterer
+17850 holy ash
+17851 broken throwing axe
+17853 lost bracers
+17854 mad froth
+17855 red hair dye
+17856 basalt fetish
+17857 basalt figurine
+17858 leech
+18343 bookworm doll
+18344 bookworm doll
+18993 rorc feather
+18994 elven hoof
+18995 venison
+18996 rorc egg
+18997 hatched rorc egg
+19082 golden raid token
+19083 silver raid token
+19110 dowser
+19111 fir cone
+19136 nail case
+19150 norseman doll
+19151 abacus
+19152 key of numerous locks
+19153 friendship amulet
+19154 the Mexcalibur
+19155 orc's jaw shredder
+19156 frozen heart
+19397 memory box
+19398 memory box
+20062 cluster of solace
+20063 dream matter
+20183 sight of surrender's eye
+20184 broken visor
+20198 frazzle tongue
+20199 frazzle skin
+20200 silencer claws
+20201 silencer resonating chamber
+20202 dead weight
+20203 trapped bad dream monster
+20204 bowl of terror sweat
+20205 goosebump leather
+20206 hemp rope
+20207 pool of chitinous glue
+20274 nightmare horn
+20275 dream warden claw
+20276 dream warden mask
+20355 melting horn
+21103 glooth injection tube
+21182 glob of glooth
+21186 control unit
+21193 metal jaw
+21194 slime heart
+21195 poisoned fang
+21196 necromantic rust
+21197 slimy leaf tentacle
+21198 metal toe
+21199 giant pacifier
+21200 moohtant horn
+21201 execowtioner mask
+21202 mooh'tah shell
+21204 cowbell
+
+Distance weapons
+904 throwing cake
+1781 small stone
+2992 snowball
+3277 spear
+3287 throwing star
+3298 throwing knife
+3347 hunting spear
+3349 crossbow
+3350 bow
+5803 arbalest
+7366 viper star
+7367 enchanted spear
+7368 assassin star
+7378 royal spear
+7438 elvish bow
+8021 modified crossbow
+8022 chain bolter
+8023 royal crossbow
+8024 the devileye
+8025 the ironworker
+8026 warsinger bow
+8027 composite hornbow
+8028 Yol's bow
+8029 silkweaver bow
+8030 Elethriel's elemental bow
+9378 musician's bow
+14246 hive bow
+14247 ornate crossbow
+14768 thorn spitter
+16163 crystal crossbow
+16164 mycological bow
+19356 triple bolt crossbow
+19362 icicle bow
+20082 crude umbral bow
+20083 umbral bow
+20084 umbral master bow
+20085 crude umbral crossbow
+20086 umbral crossbow
+20087 umbral master crossbow
+21158 glooth spear
+
+Amulets
+814 terra amulet
+815 glacier amulet
+816 lightning pendant
+817 magma amulet
+3008 crystal necklace
+3009 bronze necklace
+3012 wolf tooth chain
+3013 golden amulet
+3014 star amulet
+3015 silver necklace
+3016 ruby necklace
+3018 scarab amulet
+3019 demonbone amulet
+3021 sapphire amulet
+3025 ancient amulet
+3045 strange talisman
+3054 silver amulet
+3055 platinum amulet
+3056 bronze amulet
+3057 amulet of loss
+3080 broken amulet
+3081 stone skin amulet
+3082 elven amulet
+3083 garlic necklace
+3084 protection amulet
+3085 dragon necklace
+3102 paw amulet
+3572 scarf
+5940 wolf tooth chain
+7532 Koshei's ancient amulet
+7754 Jerom's family necklace
+9301 bonfire amulet
+9302 sacred tree amulet
+9303 leviathan's amulet
+9304 shockwave amulet
+10412 wailing widow's necklace
+10457 beetle necklace
+11468 ornamented brooch
+12542 golden scorpion pendant
+12543 golden hyena pendant
+13990 necklace of the deep
+16108 gill necklace
+16113 prismatic necklace
+19357 shrunken head necklace
+21170 gearwheel chain
+21183 glooth amulet
+
+Helmets and hats
+139 3 mining helmet
+827 3 magma monocle
+828 3 lightning headband
+829 3 glacier mask
+830 3 terra hood
+875 3 mining helmet
+894 3 jester hat
+3011 3 crown
+3022 3 ancient tiara
+3210 3 hat of the mad
+3226 3 damaged helmet
+3229 3 helmet of the ancients
+3230 3 helmet of the ancients
+3351 3 steel helmet
+3352 3 chain helmet
+3353 3 iron helmet
+3354 3 brass helmet
+3355 3 leather helmet
+3356 3 devil helmet
+3365 3 golden helmet
+3367 3 viking helmet
+3368 3 winged helmet
+3369 3 warrior helmet
+3373 3 strange helmet
+3374 3 legion helmet
+3375 3 soldier helmet
+3376 3 studded helmet
+3384 3 dark helmet
+3385 3 crown helmet
+3387 3 demon helmet
+3390 3 horned helmet
+3391 3 crusader helmet
+3392 3 royal helmet
+3393 3 amazon helmet
+3395 3 ceremonial mask
+3396 3 dwarven helmet
+3400 3 dragon scale helmet
+3403 3 tribal mask
+3405 3 horseman helmet
+3406 3 feather headdress
+3407 3 charmer's tiara
+3408 3 bonelord helmet
+3573 3 magician hat
+3574 3 mystic turban
+3575 3 wood cape
+3576 3 post officer's hat
+5460 3 helmet of the deep
+5741 3 skull helmet
+5917 3 bandana
+6096 3 pirate hat
+6531 3 santa hat
+6578 3 party hat
+7458 3 fur cap
+7459 3 pair of earmuffs
+7461 3 krimhorn helmet
+7462 3 ragnir helmet
+7992 3 mage hat
+8864 3 yalahari mask
+9013 3 flower wreath
+9103 3 batwing hat
+9374 3 odd hat
+9381 3 helmet of ultimate terror
+9382 3 helmet of nature
+9399 3 mighty helm of green sparks
+9653 3 witch hat
+10385 3 Zaoan helmet
+10451 3 jade hat
+11585 3 helmet of the deep
+11674 3 cobra crown
+11689 3 elite draken helmet
+11700 3 sedge hat
+12599 3 mage's cap
+13995 3 depth galea
+14258 3 depth galea
+16104 3 gill gugel
+16109 3 prismatic helmet
+17852 3 helmet of the lost
+21165 3 rubber cap 
+
+Potions
+236 strong health potion
+237 4 strong mana potion
+238 4 great mana potion
+239 great health potion
+266 health potion
+268 mana potion
+283 empty potion flask
+284 empty potion flask
+285 empty potion flask
+7439 berserk potion
+7440 mastermind potion
+7443 bullseye potion
+7642 great spirit potion
+7643 ultimate health potion
+7644 antidote potion
+7876 small health potion
+
+Wands and rods
+3065 3 terra rod
+3066 3 snakebite rod
+3067 3 hailstorm rod
+3069 3 necrotic rod
+3070 3 moonlight rod
+3071 3 wand of inferno
+3072 3 wand of decay
+3073 3 wand of cosmic energy
+3074 3 wand of vortex
+3075 3 wand of dragonbreath
+8082 3 underworld rod
+8083 3 northwind rod
+8084 3 springsprout rod
+8092 3 wand of starstorm
+8093 3 wand of draconia
+8094 3 wand of voodoo
+12603 3 wand of dimensions
+16096 3 wand of defiance
+16115 3 wand of everblazing
+16117 3 muck rod
+16118 3 glacial rod

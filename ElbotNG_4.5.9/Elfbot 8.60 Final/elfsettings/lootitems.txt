@@ -3,37 +3,24 @@
 3031 3 gold bp 3
 3031 4 gold bp 4
 3031 5 gold bp 5
-3062 0 mind stone
-3420 3 demon shield
-6098 2 eye patch
-6097 2 hook
-6126 2 peg leg
-5801 0 key ring
-3053 5 time ring
-5810 2 pirate doll
-3091 0 sword ring
-3081 5 stone skin amulet
-3048 0 might ring
-
-5878 2 minotaur leather
-3324 3 skull staff
-5920 2 green dragon scale
-5880 2 giant spider silk
-5909 2 white cloth
-5882 2 red dragon scale
-5948 2 red dragon leather
-3434 3 vampire shield
-3035 01 Platinum Coin
+3062 00 mind stone
 3031 01 Gold Coin
 3035 01 Platinum Coin
-8052 03 swamp lair armor
-3436 03 medusa shield
+3043 01 crystal coin
+
+//Ring and Amulet
+3053 5 time ring
+3091 5 sword ring
+3081 5 stone skin amulet
+3048 5 might ring
+
+//Potions
 238 04 great mana potion
+
+//Weapon
 7456 03 Noble Axe
-0812 03 Terra Legs
-5879 02 Spider Silk
 7386 03 mercenary sword
-8051 03 swamplair armor
+
 
 //Boots
 6529 00 pair of soft boots
@@ -46,26 +33,26 @@
 819 03 glacier shoes
 820 03 lightning boots
 3079 03 boots of haste
-3363 1 dragon scale boots
-3246 3 boots of waterwalking
-3549 3 pair of soft boots
-3550 3 patched boots
-3554 3 steel boots
-3555 3 golden boots
-4033 3 draken boots
-5461 3 pirate boots
-6529 0 pair of soft boots
-6530 0 worn soft boots
-9018 0 firewalker boots
-9019 0 firewalker boots
-9020 0 worn firewalker boots
-10200 3 crystal boots
-10201 3 dragon scale boots
-10323 3 guardian boots
-10386 3 Zaoan shoes
-13997 3 depth calcei
-16112 3 prismatic boots
-19374 3 vampire silk slippers
+3363 01 dragon scale boots
+3246 03 boots of waterwalking
+3549 03 pair of soft boots
+3550 03 patched boots
+3554 03 steel boots
+3555 03 golden boots
+4033 03 draken boots
+5461 03 pirate boots
+6529 00 pair of soft boots
+6530 00 worn soft boots
+9018 00 firewalker boots
+9019 00 firewalker boots
+9020 00 worn firewalker boots
+10200 03 crystal boots
+10201 03 dragon scale boots
+10323 03 guardian boots
+10386 03 Zaoan shoes
+13997 03 depth calcei
+16112 03 prismatic boots
+19374 03 vampire silk slippers
 9017 03 battle boots
 3553 00 enchanted slippers
 
@@ -99,6 +86,8 @@
 
 //Shield
 3414 03 mastermind shield
+3434 03 vampire shield
+3420 03 demon shield
 3419 03 crown shield
 3420 03 demon shield
 3422 03 great shield
@@ -115,34 +104,36 @@
 11691 03 snake god's wristguard
 13998 03 depth scutum
 14000 03 ornate shield
+3436 03 medusa shield
 
 
 //Backpack
-3253 0 Backpack of Holding
-5801 0 jewelled backpack
+3253 00 Backpack of Holding
+5801 00 jewelled backpack
+5801 00 key ring
 
 //Legs
-645 3 blue legs
-812 3 terra legs
-821 3 magma legs
-822 3 lightning legs
-823 3 glacier kilt
-3362 3 studded legs
-3363 3 dragon scale legs
-3364 3 golden legs
-3382 3 crown legs
-3389 3 demon legs
-3398 3 dwarven legs
-3401 3 elven legs
-8863 3 yalahari leg piece
-10387 3 Zaoan legs
-13996 3 depth ocrea
-13999 3 ornate legs
-14087 3 grasshopper legs
+645 03 blue legs
+812 03 terra legs
+821 03 magma legs
+822 03 lightning legs
+823 03 glacier kilt
+3362 03 studded legs
+3363 03 dragon scale legs
+3364 03 golden legs
+3382 03 crown legs
+3389 03 demon legs
+3398 03 dwarven legs
+3401 03 elven legs
+8863 03 yalahari leg piece
+10387 03 Zaoan legs
+13996 03 depth ocrea
+13999 03 ornate legs
+14087 03 grasshopper legs
 16111 03 prismatic legs
 
 //Helmets
-3365 3 golden helmet
+3365 03 golden helmet
 827 03 magma monocle
 830 03 terra hood
 3385 03 crown helmet
@@ -168,7 +159,16 @@
 5886 02 Spool of Yarn
 5804 02 Nose Ring
 5930 02 Behemoth Claw
-5880 02Iron Ore
+5880 02 Iron Ore
 5921 02 heaven blossom
 5922 02 holy orchid
-
+6098 02 eye patch
+6097 02 hook
+6126 02 peg leg
+5878 02 minotaur leather
+5810 02 pirate doll
+5920 02 green dragon scale
+5880 02 giant spider silk
+5882 02 red dragon scale
+5948 02 red dragon leather
+5879 02 Spider Silk
