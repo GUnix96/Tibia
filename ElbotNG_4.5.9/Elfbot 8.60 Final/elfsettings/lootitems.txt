@@ -31,12 +31,11 @@
 3031 01 Gold Coin
 3035 01 Platinum Coin
 8052 03 Swamp Lair Armor
-7643 04 Ultimat Health Potion
+7643 g ultimat health potion
 3436 03 Medusa Shield
-238 04 Great Mana Potion
+238 04 great mana potion
 7456 03 Noble Axe
 0812 03 Terra Legs
-3381 g Crown Armor
 5879 02 Spider Silk
 7386 03 mercenary sword
 8051 03 Swamplair Armor
@@ -45,7 +44,6 @@
 9018 0 firewalker boots
 9019 0 firewalker boots
 9020 0 firewalker boots
-
 813 3 terra boots
 818 3 magma boots
 819 3 glacier shoes
@@ -74,8 +72,6 @@
 21169 3 metal spat
 9017 0 battle boots
 3553 0 enchanted slippers
-
-
 651 1 spellwand
 2989 1 wooden doll
 2991 3 doll
@@ -272,9 +268,8 @@
 20315 3 snow flake tapestry
 20350 3 cake tapestry
 21218  Lisa's doll
-
 3366 3 magic plate armor
-3381 g crown armor
+3381 03 crown armor
 3386 3 dragon scale mail
 3388 3 demon armor
 8037 3 dark lord's cape
@@ -300,7 +295,6 @@
 13993 3 ornate chestplate
 13994 3 depth lorica
 14086 3 calopteryx cape
-
 3414 3 mastermind shield
 3419 3 crown shield
 3420 3 demon shield
@@ -333,10 +327,8 @@
 20089 3 umbral spellbook
 20090 3 umbral master spellbook
 21175 3 mino shield
-
 3253 0 Backpack of Holding
 5801 0 jewelled backpack
-
 645 3 blue legs
 812 3 terra legs
 821 3 magma legs
@@ -355,7 +347,6 @@
 13999 3 ornate legs
 14087 3 grasshopper legs
 16111 3 prismatic legs
-
 3365 3 golden helmet
 827 3 magma monocle
 830 3 terra hood
@@ -367,11 +358,8 @@
 11674 3 cobra crown
 11689 3 elite draken helmet
 3387 3 demon helmet
-
 8023 03 royal crossbow
 8030 0 the Windforce
-
-
 7386 03 mercenary sword 
 7402 03 dragon slayer
 
