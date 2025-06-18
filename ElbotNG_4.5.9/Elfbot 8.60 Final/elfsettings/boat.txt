@@ -1,2 +1,3 @@
-[Boat] Captain Bluebear,
-[Boat] Charles
+[Boat] Captain Bluebear
+[Boat] Charles,
+[Loot] Item Dealer

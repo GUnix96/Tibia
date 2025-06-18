@@ -14,6 +14,9 @@
 3081 5 stone skin amulet
 3048 5 might ring
 
+//Supplies
+3731 02 fire mushrooms
+
 //Potions
 238 04 great mana potion
 
@@ -76,6 +79,7 @@
 11686 03 royal draken mail
 11687 03 royal scale robe
 13993 03 ornate chestplate
+
 
 //Shield
 3414 03 mastermind shield
